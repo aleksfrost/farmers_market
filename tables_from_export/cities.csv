@@ -1,1567 +1,1294 @@
-0,0,Danville
-1,1,Scottsbluff
-2,2,Highlands
-3,3,Twentynine Palms
-4,4,Dayton
-5,5,Morris
-6,6,Lake City
-7,7,Chicago 
-8,8,Chicago
-9,9,Tallahassee 
-10,10,Aberdeen
-11,11,Abingdon 
-12,12,Abita Springs 
-13,13,West Union
-14,14,Gettysburg
-15,15,Enola
-16,16,Kealakekua
-17,17,Toms River
-18,18,Memphis
-19,19,Honolulu
-20,20,Brooksville
-21,21,Gainesville
-22,22,San Antonio 
-23,23,Alamosa
-24,24,Albany
-25,25,Albany
-26,26,Albany
-27,27,Alexandria Bay
-28,28,Alexandria
-29,29,Alexandria 
-30,30,Algoma 
-31,31,IOLA
-32,31,Iola
-33,32,Aloha
-34,33,Alturas
-35,34,Ambler
-36,35,"Ames, IA"
-37,36,Dawsonville
-38,37,Madison
-39,38,Anaconda
-40,39,Anacortes
-41,40,Anderson
-42,41,Lawrenceburg 
-43,42,Chicago
-44,43,Andover
-45,44,Annandale 
-46,45,Annandale 
-47,46,Antigo
-48,47,Antioch
-49,48,Appleton
-50,49,Newport
-51,50,Arlington
-52,51,Providence
-53,52,Arnold
-54,53,DeLand
-55,54,Augusta-Richmond County consolidated government (balance)
-56,55,Ashland
-57,56,Astoria
-58,57,Jonesboro
-59,58,Atchison
-60,59,Athens
-61,60,Athens
-62,61,Athens
-63,62,Athol
-64,63,Attleboro 
-65,64,Los Angeles 
-66,65,Auburn
-67,66,Aurora
-68,67,Aurora
-69,68,AUSTIN
-70,44,Avon
-71,69,AVON
-72,70,Colorado Springs
-73,70,Colorado Springs 
-74,71,bainbridge
-75,72,Baldwin
-76,73,Seattle 
-77,74,Bamberg 
-78,75,Bangor
-79,76,Garden Valley
-80,77,Barnegat
-81,78,Winder
-82,79,Basalt
-83,80,Bassett
-84,81,Bastrop
-85,82,Batavia
-86,83,Batesville 
-87,84,Battle Creek
-88,85,Friendswood
-89,86,Beatrice
-90,87,Beattyville
-91,88,"Beaumont, "
-92,44,Beaver City
-93,89,Beaver Dam
-94,90,Des Moines
-95,91,Bedford
-96,92,Bedminster
-97,93,Bel Air
-98,94,Belleville 
-99,95,Belleville
-100,96,Bellingham
-101,97,Belmont
-102,98,Belton 
-103,99,Bemidji
-104,100,Benicia
-105,101,Bennet
-106,102,Bentonville 
-107,103,Berkeley Springs
-108,104,Berkey
-109,105,Berwick
-110,106,Bessemer
-111,107,Bessemer
-112,108,Bethalto
-113,109,Bethany Beach
-114,110,Bethesda 
-115,111,Bethlehem
-116,112,Beverly Hills 
-117,113,Bexley
-118,114,City of Big Bear Lake
-119,115,Big Lake
-120,116,Billerica
-121,117,Birdsboro
-122,118,Bismarck
-123,119,Blairstown
-124,120,Pittsburgh
-125,121,"Bloomington, IN "
-126,122,Bloomington
-127,123,Blue Ash
-128,124,Lexington 
-129,125,Bluffton
-130,126,Bluffton
-131,127,Baltimore
-132,128,Boise City
-133,129,Burlington
-134,130,Boone
-135,131,Boonville
-136,132,Daleville
-137,133,Bottineau
-138,134,Boulder
-139,135,Bowie
-140,136,Catlettsburg
-141,137,Ashland
-142,138,Boyne City
-143,139,Houston
-144,140,Braintree  
-145,141,Brattleboro
-146,141,Brattleboro 
-147,142,Jackson
-148,143,Bremerton
-149,144,Bridgewater
-150,145,Brigham City
-151,146,Brimfield
-152,147,Providence
-153,148,Broadway
-154,149,Brockton
-155,150,Columbus 
-156,151,Brookings 
-157,152,Brookline
-158,153,Kansas City
-159,154,Brooksville
-160,155,BROOKVILLE
-161,156,Binghamton
-162,157,Providence
-163,158,Brownsburg
-164,159,Bruce
-165,160,Brunswick
-166,161,Bryn Mawr
-167,162,Hampton
-168,163,Bucksport 
-169,164,Burbank
-170,165,Burke
-171,166,Burke
-172,167,Burlington
-173,168,Harrisville
-174,169,Greenville
-175,170,Butte
-176,171,Humble
-177,172,South Bend 
-178,173,"Cadiz, KY"
-179,174,Clermont
-180,175,San Andreas
-181,176,Murphys
-182,177,St. Johnsbury
-183,178,Caledonia
-184,179,Palo Alto
-185,180,California
-186,181,Camarillo 
-187,182,Cambria
-188,183,San Jose
-189,184,Olde Towne Slidell
-190,185,Cameron Park
-191,186,Alexandria 
-192,187,Highland Heights 
-193,188,Newport 
-194,189,Campbell
-195,190,Worcester
-196,191,Newark
-197,192,Medina
-198,193,canoga park
-199,194,Canton
-200,195,Canton
-201,196,Cape Coral
-202,197,Cape Girardeau
-203,198,Dover
-204,199,DC
-205,200,Carmel
-206,201,Carnation
-207,202,Pelzer 
-208,203,Carrboro
-209,204,Carrollton
-210,205,Carson City
-211,206,GRAYSON
-212,207,Olive Hill
-213,208,Carver
-214,209,Saunderstown
-215,210,Hickory
-216,211,Catawba
-217,212,CAVE SPRING
-218,213,Portland
-219,214,Cedar Point
-220,215,Celina
-221,216,Celina
-222,217,Los Angeles 
-223,218,Central Falls
-224,219,Silverdale
-225,220,Palm Springs
-226,221,Fresno 
-227,222,Fresno
-228,222,Fresno 
-229,223,Challis 
-230,224,South Hero
-231,225,Grand Isle
-232,226,Charles Town
-233,227,Charleston
-234,228,Charlestown
-235,229,Charlotte
-236,230,Chatham
-237,44,Tekamah 
-238,231,Chelsea
-239,232,Chesterfield
-240,233,Philadelphia
-241,234,Chico
-242,235,Chico
-243,236,Paradise
-244,237,Chilhowie
-245,238,China Grove
-246,239,Chippewa Falls
-247,240,Douglasville
-248,241,Blackstone
-249,242,Ocala
-250,243,Florence
-251,244,Honolulu
-252,245,San Diego
-253,246,Auburn
-254,247,Loveland
-255,248,North Adams 
-256,249,Pittsburgh 
-257,250,Plymouth
-258,251,Seven Hills
-259,252,"St. Clair Shores, Mi"
-260,253,White Bear Lake
-261,254,New Haven
-262,255,New Haven
-263,256,New Haven
-264,257,Claremont
-265,258,Claremont
-266,259,Clarence
-267,260,Clarkston 
-268,261,Clay Center
-269,262,Cleburne
-270,263,Clemmons
-271,264,Washington 
-272,265,Clifton Park
-273,266,Clinton
-274,267,Columbus
-275,268,Clio
-276,269,Woodlawn
-277,270,Scranton
-278,271,North Kingstown
-279,272,Half Moon Bay 
-280,273,Pacifica 
-281,274,College Place
-282,275,Collinsville
-283,276,Colorado Springs
-284,277,Colorado Springs
-285,278,Columbia
-286,279,Columbia
-287,280,Columbia 
-288,281,Columbus
-289,282,Columbus
-290,283,Colusa
-291,284,Collinsville 
-292,285,Portland
-293,286,Como
-294,287,Hartford
-295,288,Conway
-296,289,Conway
-297,290,Coos Bay
-298,291,Coralville 
-299,292,Cornelius
-300,293,Corpus Christi 
-301,294,Cortez
-302,295,Corvallis
-303,296,cotati 
-304,268,Ariton
-305,297,Lawrence
-306,298,Carrollton
-307,299,Barron
-308,300,Akron
-309,301,Peninsula
-310,302,Akron
-311,303,Akron
-312,304,Coventry
-313,305,Covington 
-314,44,Fort Worth 
-315,306,Cozad 
-316,307,Wellington
-317,308,Crawfordsville
-318,309,Los Angeles 
-319,310,New Orleans
-320,311,New Orleans
-321,312,Fremont
-322,313,Wynne
-323,314,Takoma Park
-324,315,Crystal Lake
-325,316,Culver City
-326,317,Culver
-327,318,Burkesville
-328,319,Cumberland
-329,320,Cuyahoga Falls 
-330,321,Fordyce
-331,322,Danbury
-332,44,Dardanelle
-333,323,Darlington 
-334,324,Davenport
-335,325,David City 
-336,326,Dawson 
-337,327,South Jordan
-338,328,DeSoto
-339,329,Dearborn 
-340,330,Decatur
-341,331,Decorah
-342,332,DeForest
-343,333,DeKalb
-344,334,Monterey
-345,335,Wichita
-346,336,Delcambre 
-347,337,Delmar
-348,338,Delray Beach
-349,339,Seattle
-350,340,Denton
-351,341,Des Moines
-352,342,Dexter
-353,343,Philadelphia
-354,344,Dillsboro
-355,345,Dillsburg
-356,346,Dimondale
-357,347,Eastman
-358,348,Dodgeville
-359,349,Dove Creek
-360,350,donnelly
-361,351,Dorchester
-362,352,Henrico
-363,353,Dousman
-364,354,Dover
-365,355,New York
-366,356,Queens
-367,357,Larchmont
-368,358,Mamaroneck
-369,359,Brooklyn
-370,360,Manhattan
-371,361,New Rochelle
-372,362,Ossining
-373,363,Park Slope
-374,364,Queens
-375,365,Rye
-376,366,Downingtown
-377,367,Alachua
-378,368,Allen Park
-379,369,Beloit
-380,370,Berkeley
-381,371,Bloomington
-382,372,Canton
-383,373,Chico
-384,374,Denison
-385,375,Elgin 
-386,376,Evanston
-387,377,"Evansville,IN"
-388,378,Murray
-389,379,Lancaster
-390,380,Murray 
-391,381,Fort Pierce 
-392,382,Fond du Lac
-393,383,Green Bay
-394,384,Lawrenceburg
-395,385,Lima
-396,386,Madison 
-397,387,Marquette
-398,388,Newport
-399,389,Novato 
-400,390,Palo Alto
-401,391,Phoenix
-402,392,ROGERS
-403,44,Santa Cruz
-404,393,Yakima
-405,394,Dresden 
-406,395,Baltimore
-407,396,Dublin
-408,397,Dubuque
-409,398,Duluth
-410,399,Durango
-411,400,Durham
-412,44,Durham
-413,401,Duvall
-414,402,Fallon 
-415,403,eagle
-416,404,Atascocita
-417,405,Atlanta
-418,406,East Boston
-419,407,Houston
-420,408,East Greenbush
-421,409,Los Angeles
-422,410,Nashville
-423,411,East Orange
-424,412,East Palo Alto
-425,413,East Point 
-426,414,Elmira
-427,415,Vancouver
-428,416,Clarence
-429,417,Easthampton
-430,418,Easton 
-431,419,Knoxville
-432,420,Smithfield
-433,421,Los Angeles 
-434,422,Edenton
-435,423,Edmonds
-436,424,Egg Harbor
-437,425,El cajon
-438,426,El Dorado Hills
-439,427,El Monte
-440,428,Eldora
-441,429,Elgin
-442,430,Elkhart
-443,431,Ellington
-444,431,Ellington 
-445,432,Sandy Hook
-446,433,West Newton
-447,416,Buffalo
-448,434,Emmaus
-449,435,Empire
-450,436,Joplin
-451,437,Van Nuys
-452,44,Engadine
-453,438,Candler
-454,439,Ennis 
-455,440,Enumclaw
-456,441,Espanola
-457,442,Estacada
-458,443,Etna
-459,444,Eureka Springs
-460,445,Evart
-461,446,Ewa Beach
-462,44,Exeter
-463,447,Fair Haven
-464,448,Fairfax 
-465,449,Fairfax
-466,450,Fairland
-467,451,Spokane 
-468,452,Lincoln
-469,453,Sioux Falls 
-470,454,Indianapolis
-471,455,Caldwell
-472,456,Albany 
-473,457,Las Cruces
-474,458,Farmers Branch
-475,459,Soldotna
-476,460,Covington 
-477,461,Naperville
-478,462,Springfield
-479,463,Greenfield
-480,464,Scottsdale
-481,465,Bluffton
-482,466,Gravette
-483,467,Madison 
-484,468,Springfield
-485,469,Ogden
-486,470,Katy
-487,471,Greensburg
-488,472,Columbia
-489,473,Missorui City
-490,474,Carlisle
-491,475,Steubenville
-492,476,Honokaa
-493,477,Washington Court House
-494,478,Connersville
-495,479,Fearrington Village
-496,480,Felton
-497,481,Ferguson
-498,482,Little Rock
-499,483,Fernley
-500,484,San Francisco
-501,485, Cobleskill
-502,486,Cincinnati
-503,487,Sycamore
-504,488,Lafayette
-505,489,Wichita
-506,490,Fish Creek
-507,491,Narragansett
-508,492,Flemingsburg
-509,493,Prestonsburg
-510,494,floyds knobs
-511,495,Milwaukee
-512,496,Casper
-513,497,Forest
-514,498,Forest Grove
-515,499,Pittsburgh
-516,500,Charlottesville
-517,44,Lawrence
-518,501,Fort Smith 
-519,502,Fort Sumner
-520,503,Fox Lake
-521,504,Frankenmuth
-522,505,Frankfort
-523,506,Franklin
-524,150,Columbus
-525,507,Franklin
-526,508,Evansville
-527,509,Frankton
-528,510,Atlanta
-529,511,Davenport
-530,512,New Braunfels
-531,513,Antioch 
-532,44,"Phoenixville, Pottstown, Coatesville, Parkesburg, West Chester, Kennett Square and Oxford"
-533,514,Washington
-534,187,Ft. Thomas
-535,515,Fort Wayne
-536,515,FORT WAYNE
-537,516,Fulshear 
-538,517,Rochester
-539,518,New York 
-540,519,Grand Rapids
-541,520,Fuquay-Varina
-542,521,Galena
-543,522,Gallatin
-544,523,Riverside
-545,524,Garden City
-546,525,Gardner 
-547,526,Indianapolis
-548,527,Chicago
-549,528,Lancaster
-550,529,Gas City
-551,530,Texarkana 
-552,531,Georgetown
-553,532,Houston
-554,533,Houston
-555,534,Houston
-556,535,Houston
-557,536,Houston
-558,537,Houston 
-559,538,Houston
-560,539,Gilbert
-561,540,Gilmanton
-562,541,Gladstone
-563,542,Glen Arbor
-564,543,GLENCOE
-565,544,Glens Falls
-566,545,Chicago
-567,546,Warwick
-568,547,Dallas
-569,548,Goodhue 
-570,549,Gooding
-571,550,Philadelphia
-572,551,Goshen
-573,552,Stuttgart 
-574,553,Grand Rapids
-575,554,Roanoke
-576,555,Atlanta
-577,556,New York
-578,557,Turners Falls
-579,558,Brownsville
-580,559,Watertown
-581,560,Greeley
-582,561,Chicago
-583,562,Chicago
-584,563,Atlanta
-585,564,Walker
-586,565,Greenbelt
-587,566,Ruckersville
-588,567,Gretna
-589,568,Grinnell
-590,569,Lihue
-591,570,baton rouge
-592,571,Hephzibah
-593,572,Guttenberg
-594,573,Aiea
-595,574,Halifax
-596,575,Jersey City
-597,576,Hamilton
-598,577,Fayetteville 
-599,578,Hampden
-600,579,Norfolk
-601,580,Hampton
-602,581,Hana
-603,582,Hanalei
-604,583,Findlay
-605,584,Hanover
-606,585,Akron
-607,586,Akron 
-608,587,Fort Wayne
-609,588,Harker Heights
-610,589,Harlingen
-611,590,Harrison
-612,44,Cynthiana
-613,591,Munfordville
-614,592,Hartford
-615,44,New York
-616,44,Brooklyn
-617,44,Bronx
-618,44,Manhattan
-619,44,Honolulu
-620,593,Kent
-621,594,New Palestine
-622,595,New Albany
-623,596,Heathsville
-624,597,Heber City
-625,598,West Hollywood
-626,599,Hendersonville
-627,44,Henderson
-628,600,Hendricks
-629,44,Parkton
-630,601,McCook
-631,602,London 
-632,603,Rancho Cucamonga
-633,604,Springerville
-634,605,Hernando
-635,606,Herndon 
-636,607,Herriman
-637,608,Clarksville
-638,609,Victorville
-639,610,High Point 
-640,611,High Springs
-641,612,Monterey
-642,613,Highlands Ranch 
-643,614,Manson 
-644,615,Hillsboro
-645,616,Hillsboro 
-646,616,Hillsboro
-647,617,Portland
-648,618,Hinesville
-649,619,Hingham
-650,620,Hinsdale
-651,621,Hot Springs
-652,44,Jersey City
-653,622,Lapeer 
-654,623,Lafayette
-655,44,
-656,624,Lewes
-657,625,Marion
-658,626,Newburgh
-659,627,Holden
-660,628,Hollidaysburg
-661,629,Holly
-662,630,Holly Springs
-663,409,Los Angeles 
-664,631,Lexington Park 
-665,632,Homer
-666,633,Homewood
-667,44,Hood River
-668,634,Welches 
-669,635,Warren
-670,157,Providence 
-671,636,Hopkins
-672,637,HOPKINSVILLE
-673,638,Hopkinton
-674,639,Hot Springs
-675,640,Spartanburg
-676,641,Hudson
-677,642,Richmond
-678,643,Richmond
-679,644,Carbondale
-680,645,Flemington
-681,646,Huntingdon
-682,647,Huntley
-683,648,Hutto
-684,649,Clarksville City 
-685,650,Hyattsville
-686,651,Cincinnati
-687,652,Ida Grove
-688,653,Idaho Falls
-689,654,Imlay City
-690,655,Marion
-691,656,Independence
-692,657,Independence 
-693,658,INDIAN LAKE
-694,659,Indiana
-695,660,Ionia
-696,661,Iowa Falls
-697,662,"Brooklyn, NY"
-698,663,Issaquah
-699,664,Ithaca
-700,665,Ivanhoe
-701,666,Douglas
-702,667,Jackson 
-703,668,Black River Falls 
-704,669,Mckee
-705,670,Tyner
-706,671,Sylva 
-707,671,Sylva
-708,672,Jackson
-709,673,Janesville 
-710,674,Jasper 
-711,675,Philadelphia
-712,676,Jeffersontown
-713,677,Paintsville
-714,678,Joshua Tree
-715,679,Juneau
-716,680,Kailua
-717,681,Kalamazoo
-718,682,Honolulu
-719,476,Kamuela
-720,683,Kaneohe
-721,684,Kapolei
-722,44,Milwaukee 
-723,685,Keller 
-724,686,Kenosha
-725,687,Kensington
-726,688,Kentwood
-727,689,Camden
-728,690,King 
-729,691, King George
-730,692,Kingston
-731,693,Alexandrida 
-732,694,Kingwood
-733,695,Kirksville
-734,696,Kirtland 
-735,697,Kittery 
-736,698,Edina
-737,699,Barbourville
-738,700,Estero
-739,701,Kennett Square
-740,702,Carolina
-741,703,Los Angele
-742,704,Bronx
-743,705,Bronx
-744,706,La Grange
-745,707,La Plata
-746,708,Weston
-747,709,Lewisville 
-748,710,Lake Barrington
-749,711,Lake Oswego
-750,712,Lake Placid
-751,713,Brainerd
-752,714,Baxter 
-753,715,RICHMOND
-754,715,henrico
-755,716,Lakewood
-756,717,Lakewood
-757,718,Lamoni
-758,719,Lanark
-759,720,Lancaster
-760,721,Sheridan
-761,722,Eugene
-762,722,Eugene 
-763,723,Lansdale
-764,724,Fort Collins
-765,725,"Troy, ID"
-766,726,Huntsville 
-767,727,Laurel
-768,728,Lawrence 
-769,729,Pittsburgh
-770,730,Cobden
-771,731,Lebanon 
-772,732,Lebanon
-773,733,San Antonio
-774,734,Miami
-775,735,Leland
-776,736,Lenexa
-777,737,Kinston
-778,738,Cincinnati
-779,739,Lowville
-780,740,Lewiston
-781,741,Lewiston
-782,742,Lexington
-783,743,LEXINGTON
-784,744,Salt Lake City
-785,745,Ligonier
-786,746,Lilburn
-787,747,Caliente
-788,748,Los Angeles
-789,748,Los Angeles 
-790,749,Lincoln Park
-791,750,San Diego
-792,751,Linton
-793,752,Litchfeild
-794,752,Litchfield
-795,753,Seymour
-796,754,Erie
-797,755,San Diego 
-798,756,Ashdown
-799,757,Little River
-800,758,Livingston
-801,759,Livonia
-802,760,Appomattox 
-803,761,Russellville
-804,762,Lorton 
-805,763,Los Ranchos
-806,764,Louisiana 
-807,765,Loveland
-808,766,Chicago
-809,767,Lowell
-810,768,Wallowa
-811,769,Des Moines
-812,770,LUDINGTON
-813,771,Bluemont
-814,772,Sterling
-815,773,Leesburg
-816,774,Ashburn
-817,775,Lynchburg
-818,776,Lynden
-819,777,Mableton
-820,778,Winterset
-821,779,Madison 
-822,780,Madison
-823,781,Madras 
-824,782,Seattle 
-825,783,Madison
-826,784,DeFuniak Springs
-827,785,Dyersburg
-828,786,Washington
-829,787,Placerville
-830,788,Chanute
-831,789,Honesdale
-832,790,Murfreesboro
-833,791,Wadsworth
-834,792,Liberytville 
-835,793,Manchester
-836,794,Manhattan
-837,795,Manistee 
-838,796,Manistique
-839,797,Honolulu
-840,798,Mansfield
-841,799,Manson
-842,800,Nehalem 
-843,801,Maple Valley
-844,802,MARIETTA
-845,803,Marinette 
-846,804,Marion
-847,805,Marion 
-848,806,Orland Park
-849,807,Myrtle Beach 
-850,808,Mobile
-851,809,Oshkosh
-852,810,Mobile
-853,811,Miami
-854,812,Gary
-855,813,Evansville
-856,814,Green Bay 
-857,815,Whitehall
-858,44,Broken Bow 
-859,816,Marksville
-860,817,Marlette
-861,818,Benton
-862,819,Marshfield
-863,820,Williamston
-864,821,Maryville 
-865,822,Maryville
-866,823,Maysville
-867,824,Mason
-868,825,Mattapan
-869,826,South Bend
-870,827,Mauldin
-871,828,mauston
-872,829,Stearns
-873,830,Alexandria 
-874,831,McKinleyville
-875,832,McLean
-876,833,Brandenburg 
-877,834,Medford
-878,835,Media
-879,836,Kyle 
-880,837,medina
-881,838,Pomeroy
-882,839,Memphis
-883,840,Frenchburg
-884,841,Menlo Park
-885,842,Menominee
-886,843,Merchantville
-887,844,Meridian
-888,845,METUCHEN
-889,846,Peru
-890,847,Oxford
-891,848,Middlebury
-892,849,Middletown
-893,850,Middletown
-894,851,Midland
-895,852,University City
-896,44,Miles City
-897,853,Milford
-898,854,Mililani  
-899,855,Rockville
-900,856,Rockville
-901,857,Minneapolis
-902,858,Millen 
-903,859,Milton
-904,860,Milwaukee
-905,861,Mineola
-906,862,Muncie 
-907,863,Minturn
-908,864,Mission
-909,865,San Antonio
-910,44,Missoula 
-911,866,Los Angeles
-912,867,Topeka
-913,868,Monroe
-914,869,Monroe
-915,870,Portland
-916,871,Oakland
-917,872,MONTEVALLO
-918,873,Mt. Sterling
-919,874,Monticello
-920,875,Montour Falls
-921,876,Montrose 
-922,877,Shawnee
-923,878,Portland
-924,879,McConnelsville
-925,880,Martinsville 
-926,881,Mooresville 
-927,880,Martinsville
-928,882,Morganton
-929,883,Atlanta 
-930,884,Morristown
-931,885,Morro Bay
-932,886,Moscow
-933,887,City
-934,888,Mount Carroll 
-935,889,Bristol
-936,890,Mount Pleasant
-937,891,Washington
-938,892,Oakland
-939,893,Philadelphia
-940,894,Mount Pleasant
-941,895,Mt.Washington
-942,896,Macon
-943,897,Anchorage
-944,862,Muncie
-945,898,Munising
-946,899,Murrysville
-947,900,Palmer
-948,901,Myersville
-949,902,Napa
-950,903,Narrowsburg
-951,904,Rocky Mount
-952,905,Natick
-953,906,Frankfort
-954,907,Nederland 
-955,908,Needham
-956,909,Downtown Neosho
-957,910,Netcong
-958,51,Providence 
-959,911,New Baltimore
-960,912,New Bedford 
-961,913,New Bedford 
-962,913,New Bedford
-963,914,New Bedford
-964,915,New Era
-965,916,New Glarus
-966,44,Grand Island
-967,917,New Harmony
-968,918,Knoxville
-969,919,New Haven
-970,920,Mechanicsville
-971,921,New Orleans
-972,922,Newburgh
-973,923,Newcastle
-974,924,Newmarket 
-975,925,Newport Beach 
-976,926,Nicholasville 
-977,44,Stanton 
-978,927,Norfolk
-979,928,Berkeley
-980,929,North Branch
-981,930,North Canton
-982,931, North Creek
-983,932, Mansfield 
-984,932,Mansfield
-985,933,Mason City
-986,934,Columbus
-987,935,North Myrtle Beach
-988,936,Minot
-989,937,Chambersburg
-990,938,Charlotte Hall
-991,939,Northampton 
-992,940,Northbrook
-993,941,Minneapolis
-994,942,Colville
-995,943,Northport
-996,944,northridge
-997,945,Cincinnati 
-998,946,Madison
-999,947,Northville
-1000,948,Norwich
-1001,949,Vienna
-1002,950,Nutley
-1003,951,Oak Creek 
-1004,952,RICHFIELD
-1005,953,Oakton
-1006,954,Brighton
-1007,955,Capitol Heights
-1008,330,Decatur 
-1009,956,Ocala
-1010,957,San Diego
-1011,958,Ocean City
-1012,959,Ocean Pines 
-1013,960,Bellaire
-1014,961,St. Clairsville 
-1015,962,Portland
-1016,963,Springfield 
-1017,964,Los Angeles 
-1018,965,Oakland
-1019,966,Beaufort
-1020,967,Pickerington
-1021,968,Olympia
-1022,969,Omaha
-1023,970,Omaha
-1024,971,St Louis
-1025,972,Oneida
-1026,973,Jacksonville
-1027,974,Orange 
-1028,975,Orange 
-1029,976,Orange Park
-1030,977,Oregon City
-1031,978,Merced
-1032,979,Orinda 
-1033,980,Ormond Beach
-1034,981,Orofino
-1035,982,Oswego
-1036,983,Overbrook
-1037,984,Ovid
-1038,985,Spencer
-1039,986,Oxford
-1040,987,Oxford
-1041,988,Oxnard
-1042,989,Pacific City
-1043,990,Paducah
-1044,991,Pahrump 
-1045,992,Watsonville
-1046,993,Palisades
-1047,994,Humacao
-1048,995,San Antonio
-1049,996,Palos Heights 
-1050,997,Rolling Hills Estates 
-1051,998,Paola 
-1052,999,"Paragould, AR"
-1053,44,Parkville
-1054,1000,Oklahoma City
-1055,1001,Spring Run
-1056,1002,Pawling
-1057,1003,Pawtucket
-1058,1004,Cranston 
-1059,1005,Payette 
-1060,1006,Payson
-1061,1007,Port Clinton 
-1062,1008,Sonora
-1063,1009,Angleton 
-1064,1010,Peacham
-1065,1011,Spicewood
-1066,1012,Falmouth
-1067,1013,Pendleton 
-1068,1014,Pennington
-1069,1015,Perryville
-1070,1016,Perry
-1071,1017,Petaluma 
-1072,1018,Petersham
-1073,891,Washington 
-1074,1019,Pfafftown
-1075,1020,Pflugerville
-1076,1021,Phelan
-1077,1022,Village of Philmont
-1078,1023,Louisville
-1079,1024,Colfax
-1080,1025,North Potomac
-1081,1026,Indianapolis
-1082,1027,Pikeville
-1083,1028,Pine City
-1084,1029,Pinecrest
-1085,1030,Brooklyn
-1086,1031,Pittsburg
-1087,1032,McAlester 
-1088,1033,Ann Arbor
-1089,1034,Hale
-1090,44,Plainview 
-1091,1035,Plainwell 
-1092,1035,Plainwell
-1093,1036,Collbran
-1094,1037,Platteville
-1095,44,Plattsmouth 
-1096,1038,Playa Vista
-1097,1039,St. Marys
-1098,1040,Pleasantville
-1099,1041,Plymouth
-1100,1042,Poestenkill
-1101,1043,Waianae
-1102,1044,Pontiac
-1103,1045,Port Chester
-1104,1046,Port Sanilac
-1105,1047,PORT TOWNSEND
-1106,1048,Portland
-1107,1049,Portland
-1108,1050,Portland
-1109,1051,Portland 
-1110,1052,Portland 
-1111,1053,Portsmouth
-1112,1054,Sun Prairie
-1113,1055,Galloway
-1114,1056,Prescott 
-1115,1057,Philadelphia 
-1116,1058,Price
-1117,1059,Prince George
-1118,1060,Prospect 
-1119,1061,San Felipe Pueblo 
-1120,1062,Pullman
-1121,1063,Purcellville
-1122,1064,Hurricane
-1123,1065,Puyallup
-1124,1066,Rock Island
-1125,1067,Quapaw
-1126,1068,Seattle 
-1127,1069,Quincy
-1128,1070,QUINCY
-1129,1071,Albuquerque
-1130,1072,Wedowee 
-1131,1073,Pocahontas 
-1132,1074,Beverly
-1133,1075,Red Lodge
-1134,1076,Red Oak
-1135,1077,Baton Rouge
-1136,1078,Baton Rouge
-1137,1079,Baton Rouge
-1138,1080,Homestead
-1139,1081,Redlands
-1140,1082,Reedsburg
-1141,1083,Reidsville
-1142,1084,Reisterstown
-1143,1085,Rensselaer
-1144,1086,Reston 
-1145,1087,Rexburg
-1146,1088,Richmond
-1147,1089,Ridgeway
-1148,1090,Orangeburg
-1149,1091,Denmark
-1150,1092,Rindge
-1151,1093,Philadelphia
-1152,1094,Petersburg 
-1153,1095,Hardin
-1154,1096,Riverdale Park
-1155,1097,Wilmington
-1156,1098,Jacksonville
-1157,1099,indianapolis
-1158,1100,Riverside
-1159,1101,Kenner
-1160,1102,Jersey City
-1161,1103,Milford
-1162,1104,Roanoke
-1163,1105,Rock Valley
-1164,1106,Rockford
-1165,1107,Rockmart
-1166,1108,Portland
-1167,1109,Rocky Mount
-1168,1110,Choteau
-1169,1111,Rogers 
-1170,1112,Rogersville
-1171,1113,Ashland
-1172,1114,Medford
-1173,1115,Rohnert Park 
-1174,1116,Rolling Meadows
-1175,1117,Ronan
-1176,1118,Roosevelt
-1177,1119,Charlotte 
-1178,1120,Tyler
-1179,1121,Roslindale
-1180,1122,Pittsburgh 
-1181,1123,Round Rock
-1182,1124,LOMPOC
-1183,1125,Waipahu
-1184,1126,Ruther Glen
-1185,1127,Running Springs
-1186,1128,Ladysmith
-1187,1129,Russellville
-1188,1130,Guerneville 
-1189,1131,Russiaville
-1190,1132,Ruston
-1191,1133,Afton
-1192,1134,Columbus 
-1193,1135,Saint Paris
-1194,1136,Salamanca
-1195,1137,Salem
-1196,1138,Salem
-1197,1139,Salem
-1198,1140,Salinas
-1199,1141,Saline
-1200,1142,Salisbury
-1201,1143,Vancouver
-1202,1144,Fort Wayne
-1203,1145,Honolulu
-1204,1146,San Antonio
-1205,1147,San Francisco
-1206,1148,Sanford
-1207,1149,Santa Clara
-1208,1150,Santa Rosa 
-1209,1151,Santa Rosa 
-1210,1151,Santa Rosa
-1211,1152,Pace
-1212,1153,Traverse City
-1213,1154,Pine Bluff 
-1214,1155,Saranac Lake
-1215,1156,Finley
-1216,1157,Saugerties
-1217,1158,Scituate
-1218,1159,North Scituate
-1219,1160,Scotch Plains
-1220,1161,Scotland
-1221,1162,Georgetown
-1222,1163,Scottsville
-1223,1164,Columbus
-1224,1165,Exeter
-1225,1166,Rollinsford
-1226,1167,Sealy 
-1227,1168,Marshall
-1228,1169,Seaside
-1229,1170,Wanchese
-1230,1171,"Sedalia, MO"
-1231,1172,Winston-Salem 
-1232,1173,Seneca Falls
-1233,1174,De Queen
-1234,1175,Seward
-1235,1176,Shallotte
-1236,1177,Shawano
-1237,1178,Harlan
-1238,1179,SHELBYVILLE
-1239,1180,Shepherdsville 
-1240,1181,Dayton 
-1241,1182,Shoreline
-1242,1183,Shorewood
-1243,1184,Shreveport
-1244,1185,Siloam Springs 
-1245,1186,Silver City
-1246,421,Los Angeles
-1247,1187,Kellogg
-1248,219,Silverdale 
-1249,1188,Simi Valley
-1250,1189,Sioux City
-1251,1190,Sitka
-1252,1191,Deming
-1253,1192,Slippery Rock
-1254,1193,San Luis Obispo
-1255,1194,Carthage
-1256,1195,Santa paula
-1257,1196,Costa Mesa
-1258,1197,sodus
-1259,1198,Bowling Green
-1260,1199,Solana Beach
-1261,1200,Somerset
-1262,1201,Somerville
-1263,1202,Somerville
-1264,1203,Jacksonville
-1265,1204,Berkeley 
-1266,1205,Naples
-1267,1206,Sewanee 
-1268,1207,Grand Rapids
-1269,1208,Charlotte
-1270,1209,Georgetown
-1271,1210,South Hill
-1272,1211,Wakefield
-1273,1212,South Lake Tahoe 
-1274,1213,South Lyon 
-1275,1214,Miami
-1276,1215,South Milwaukee 
-1277,1216,SOUTH ORANGE
-1278,1217,Scranton
-1279,1218,St. Joseph 
-1280,1219,South Windsor
-1281,1220,Olean
-1282,1221,sturtevant
-1283,1222,Littleton 
-1284,1223,Hillsville
-1285,1224,Detroit
-1286,1225,Walsenburg
-1287,1226,Sparks
-1288,1227,Speedway
-1289,1228,Spotsylvania
-1290,1228,Fredericksburg
-1291,1229,Fredericksburg
-1292,1230,Springdale 
-1293,1231,Batesville
-1294,1232,St. John
-1295,1233,Portland
-1296,1234,St. Louis
-1297,1235,St. Maries
-1298,1236,Louisville
-1299,1237,St. Michaels
-1300,1238,Lakeville
-1301,1239,St Petersburg
-1302,1240,Tucson
-1303,1241,Stafford Springs
-1304,1242,Albemarle 
-1305,1243,Stayton 
-1306,1244,Springfield
-1307,1245,Shippensburg
-1308,1246,Steelville
-1309,790,Murfreesboro 
-1310,1247,Stow
-1311,1248,Stowe
-1312,1249,Suffolk
-1313,1250,Akron
-1314,1251,Sumter
-1315,1252,Timnath
-1316,1253,sunland park
-1317,1254,Sunnyvale
-1318,1255,Superior
-1319,1256,Surfside Beach
-1320,1257,Cape Coral 
-1321,1258,Cedarville
-1322,1259,Greenville
-1323,1260,Austin
-1324,1261,Austin
-1325,1262,Suttons Bay
-1326,1263,Suwanee
-1327,1264,Swarthmore
-1328,1265,Tampa
-1329,1266,Tahoe City
-1330,1267,RENO
-1331,1268,Taos 
-1332,1269,Taylorsville
-1333,1270,Greenville
-1334,1271,Jaffrey 
-1335,1272,Telluride
-1336,1273,Oakland
-1337,1274,Temple Terrace
-1338,1275,Tenino
-1339,1276,Hudsonville
-1340,1277,Terre Haute
-1341,1278,Cedar Park
-1342,1279,"Austin, TX"
-1343,1280,Kalamazoo
-1344,1281,Cullowhee 
-1345,1282,Sumter
-1346,1283,Old Orchard Beach 
-1347,959,Berlin 
-1348,1284,LANCASTER
-1349,1285,Clarksville
-1350,1286,Greensboro
-1351,1287,cornwall n.y.
-1352,1288,Creede
-1353,1289,Louisville/Jefferson County metro government (balance)
-1354,1290,Fairfield
-1355,1291,Hillsboro 
-1356,1292,Lowell
-1357,1293,College Park 
-1358,1294,Lyme
-1359,1295,Allamuchy
-1360,1296,Philadelphia
-1361,44,Atlanta
-1362,1297,College Park 
-1363,1298,Atlanta
-1364,1299,Atlanta
-1365,1300,Roanoke
-1366,1301,Indian Shores
-1367,1302,Weston
-1368,1303,Lincoln
-1369,1304,Long Valley
-1370,1305,Amherst
-1371,1306,Green Lake
-1372,1307,Indianapolis
-1373,1308,"Petersburg, AK"
-1374,1309,Birmingham
-1375,1310,Glen Rock
-1376,1311,Monroe
-1377,1312,Orange
-1378,1313,Westminster 
-1379,1314,Gresham 
-1380,122,Bloomington 
-1381,1315,Petaluma 
-1382,1316,Boyes Hot Springs 
-1383,1317,St.james
-1384,1318,Galena
-1385,1319,Little Falls
-1386,1320,Reno 
-1387,1321,Londonderry
-1388,1322,Wilmington
-1389,1323,Woodland 
-1390,1323,Woodland
-1391,1324,Thief River Falls 
-1392,1325,San Rafael 
-1393,44,Tigard 
-1394,1326,Titusville
-1395,1327,"Tiverton, RI"
-1396,1328,"Tontitown, AR"
-1397,1329,Torrington 
-1398,1330,Wauwatosa
-1399,1331,Wadley
-1400,1332,West Townshend
-1401,1333,Travelers Rest
-1402,1334,DuBois
-1403,1335,Cleveland
-1404,1336,Trout Creek
-1405,1337,Troy
-1406,1338,Meridianville
-1407,121,Bloomington
-1408,1339,Lakeport
-1409,1340,Tupelo
-1410,1341,Tuscaloosa
-1411,1342,Twin Bridges 
-1412,1343,Sterling IL
-1413,1344,Two Rivers
-1414,1345,Union 
-1415,1346,Blairsville
-1416,1347,Maynardville
-1417,1348,Union
-1418,1349,Somerville
-1419,1350,Gainesville 
-1420,1351,Philadelphia
-1421,1352,Upper Arlington
-1422,1353,Greenville
-1423,1354,Greenwood
-1424,1355,Westerville
-1425,1356,Houston
-1426,1357,Urbana
-1427,1358,Frederick
-1428,1359,Washington
-1429,1360,Utica
-1430,1361,Henderson
-1431,1362,Naples 
-1432,1363,Vashon
-1433,1364,Vermillion
-1434,1365,Rutland 
-1435,1365,RUTLAND
-1436,1366,Nevada
-1437,1367,Vernon Hills
-1438,1368,Verona
-1439,1369,Vicksburg
-1440,1370,Victoria
-1441,1371,Cleveland 
-1442,1372,Constantine
-1443,1373,Lemont
-1444,1374,Skokie
-1445,1375,Vincennes
-1446,1376,O'Fallon
-1447,1377,Fresno 
-1448,883,Atlanta
-1449,1378,Miami
-1450,1379,Voluntown
-1451,1380,Voorheesville
-1452,1381,Wabasha 
-1453,1382,Waco
-1454,1383,Wagoner 
-1455,1384,Wahiawa
-1456,1385,Wahoo
-1457,1386,Pearl City
-1458,1387,Waiapahu
-1459,1388,Waimanalo
-1460,1387,Waipahu
-1461,1389, Annandale 
-1462,1390,Seattle 
-1463,1391,Walnut Creek
-1464,1392,Ottumwa
-1465,1393,Washington
-1466,1394,Gig Harbor 
-1467,1395,Waterloo
-1468,1396,Watertown
-1469,1397,Watford City
-1470,1398,Waukon
-1471,1399,Waycross
-1472,1400,Wayland
-1473,1401,Wayland
-1474,1402,Torrey 
-1475,789,Honesdale 
-1476,1403,Detroit 
-1477,1404,Waynesboro
-1478,1405,Waynesburg
-1479,1406,East Providence
-1480,1407,Webb City
-1481,1408,Webster Springs
-1482,1409,Webster
-1483,1410,Weiser 
-1484,1411,Missouri Valley
-1485,1412,Wellfleet
-1486,1413,Los Angeles
-1487,1414,Moreauville
-1488,1415,Roanoke
-1489,1416,West Haven
-1490,1417,Los Angeles
-1491,1418,West Lafayette
-1492,1419,West Orange
-1493,1420,West Plains
-1494,44,West Point 
-1495,1421,Village of Highland Falls
-1496,1422,Chicago
-1497,1423,West Warwick
-1498,1424,Peoria 
-1499,1425,Houston
-1500,1426,Westcliffe
-1501,1427,Westerly
-1502,1428,Rainelle 
-1503,1429,Westfield 
-1504,1430,Columbus
-1505,1431,Westland
-1506,1432,Westminster
-1507,1433,Louisville
-1508,1434,Madison
-1509,1435,Lansing
-1510,1436,Santa Cruz
-1511,1437,Los Angeles
-1512,1438,Weymouth
-1513,1439,White House
-1514,1440,Pinetop-Lakeside 
-1515,1441,Memphis 
-1516,1442,Corbin 
-1517,1443,Williamsburg 
-1518,1444,Minneapolis
-1519,1445,San Antonio
-1520,1446,San Antonio
-1521,1447,San Antonio
-1522,1448,San Antonio
-1523,44,Dorchester
-1524,1449,Lubbock
-1525,1450,North Wilkesboro
-1526,499,Wilkinsburg
-1527,1451,Williamsburg
-1528,1452,Williamson
-1529,1453,San Jose
-1530,1454,Winchester 
-1531,1455,Winchester 
-1532,1456,Huntsville
-1533,1457,CORNV
-1534,1458,Winnsboro
-1535,1459,Oak Ridge
-1536,383,"Green Bay, WI"
-1537,1460,Wisconsin Rapids
-1538,1461,Wise 
-1539,1462,Asheville
-1540,1463,Campton 
-1541,1464,Wolfeboro
-1542,1465,Wolfforth
-1543,1466,Midway 
-1544,1467,VERSAILLES
-1545,1468,Woodstock
-1546,1469,Woodstock
-1547,1470,Woodstock
-1548,1471,Woodward
-1549,1472,Woonsocket 
-1550,1473,Wrightstown (use Newtown for GPS)
-1551,1474,Wytheville 
-1552,1475,Yardley borough
-1553,1476,Penn Yan
-1554,1477,Hollywood
-1555,1478,Yorktown
-1556,1479,Houston
-1557,470,Katy 
-1558,171,Humble 
-1559,1480,Houston 
-1560,404,Humble 
-1561,1481,Cypress
-1562,1482,Ypsilanti
-1563,1483,Yreka 
-1564,1484,Yucaipa
-1565,1485,Zebulon
-1566,1486,Zelienople
+0,Danville
+1,Scottsbluff
+2,Highlands
+3,Twentynine Palms
+4,Dayton
+5,Morris
+6,Lake City
+7,Chicago 
+8,Chicago
+9,Tallahassee 
+10,Aberdeen
+11,Abingdon 
+12,Abita Springs 
+13,West Union
+14,Gettysburg
+15,Enola
+16,Kealakekua
+17,Toms River
+18,Memphis
+19,Honolulu
+20,Brooksville
+21,Gainesville
+22,San Antonio 
+23,Alamosa
+24,Albany
+25,Alexandria Bay
+26,Alexandria
+27,Alexandria 
+28,Algoma 
+29,IOLA
+30,Iola
+31,Aloha
+32,Alturas
+33,Ambler
+34,"Ames, IA"
+35,Dawsonville
+36,Madison
+37,Anaconda
+38,Anacortes
+39,Anderson
+40,Lawrenceburg 
+41,Andover
+42,Annandale 
+43,Antigo
+44,Antioch
+45,Appleton
+46,Newport
+47,Arlington
+48,Providence
+49,Arnold
+50,DeLand
+51,Augusta-Richmond County consolidated government (balance)
+52,Ashland
+53,Astoria
+54,Jonesboro
+55,Atchison
+56,Athens
+57,Athol
+58,Attleboro 
+59,Los Angeles 
+60,Auburn
+61,Aurora
+62,AUSTIN
+63,Avon
+64,AVON
+65,Colorado Springs
+66,Colorado Springs 
+67,bainbridge
+68,Baldwin
+69,Seattle 
+70,Bamberg 
+71,Bangor
+72,Garden Valley
+73,Barnegat
+74,Winder
+75,Basalt
+76,Bassett
+77,Bastrop
+78,Batavia
+79,Batesville 
+80,Battle Creek
+81,Friendswood
+82,Beatrice
+83,Beattyville
+84,"Beaumont, "
+85,Beaver City
+86,Beaver Dam
+87,Des Moines
+88,Bedford
+89,Bedminster
+90,Bel Air
+91,Belleville 
+92,Belleville
+93,Bellingham
+94,Belmont
+95,Belton 
+96,Bemidji
+97,Benicia
+98,Bennet
+99,Bentonville 
+100,Berkeley Springs
+101,Berkey
+102,Berwick
+103,Bessemer
+104,Bethalto
+105,Bethany Beach
+106,Bethesda 
+107,Bethlehem
+108,Beverly Hills 
+109,Bexley
+110,City of Big Bear Lake
+111,Big Lake
+112,Billerica
+113,Birdsboro
+114,Bismarck
+115,Blairstown
+116,Pittsburgh
+117,"Bloomington, IN "
+118,Bloomington
+119,Blue Ash
+120,Lexington 
+121,Bluffton
+122,Baltimore
+123,Boise City
+124,Burlington
+125,Boone
+126,Boonville
+127,Daleville
+128,Bottineau
+129,Boulder
+130,Bowie
+131,Catlettsburg
+132,Boyne City
+133,Houston
+134,Braintree  
+135,Brattleboro
+136,Brattleboro 
+137,Jackson
+138,Bremerton
+139,Bridgewater
+140,Brigham City
+141,Brimfield
+142,Broadway
+143,Brockton
+144,Columbus 
+145,Brookings 
+146,Brookline
+147,Kansas City
+148,BROOKVILLE
+149,Binghamton
+150,Brownsburg
+151,Bruce
+152,Brunswick
+153,Bryn Mawr
+154,Hampton
+155,Bucksport 
+156,Burbank
+157,Burke
+158,Harrisville
+159,Greenville
+160,Butte
+161,Humble
+162,South Bend 
+163,"Cadiz, KY"
+164,Clermont
+165,San Andreas
+166,Murphys
+167,St. Johnsbury
+168,Caledonia
+169,Palo Alto
+170,California
+171,Camarillo 
+172,Cambria
+173,San Jose
+174,Olde Towne Slidell
+175,Cameron Park
+176,Highland Heights 
+177,Newport 
+178,Campbell
+179,Worcester
+180,Newark
+181,Medina
+182,canoga park
+183,Canton
+184,Cape Coral
+185,Cape Girardeau
+186,Dover
+187,DC
+188,Carmel
+189,Carnation
+190,Pelzer 
+191,Carrboro
+192,Carrollton
+193,Carson City
+194,GRAYSON
+195,Olive Hill
+196,Carver
+197,Saunderstown
+198,Hickory
+199,Catawba
+200,CAVE SPRING
+201,Portland
+202,Cedar Point
+203,Celina
+204,Central Falls
+205,Silverdale
+206,Palm Springs
+207,Fresno 
+208,Fresno
+209,Challis 
+210,South Hero
+211,Grand Isle
+212,Charles Town
+213,Charleston
+214,Charlestown
+215,Charlotte
+216,Chatham
+217,Tekamah 
+218,Chelsea
+219,Chesterfield
+220,Philadelphia
+221,Chico
+222,Paradise
+223,Chilhowie
+224,China Grove
+225,Chippewa Falls
+226,Douglasville
+227,Blackstone
+228,Ocala
+229,Florence
+230,San Diego
+231,Loveland
+232,North Adams 
+233,Pittsburgh 
+234,Plymouth
+235,Seven Hills
+236,"St. Clair Shores, Mi"
+237,White Bear Lake
+238,New Haven
+239,Claremont
+240,Clarence
+241,Clarkston 
+242,Clay Center
+243,Cleburne
+244,Clemmons
+245,Washington 
+246,Clifton Park
+247,Clinton
+248,Columbus
+249,Clio
+250,Woodlawn
+251,Scranton
+252,North Kingstown
+253,Half Moon Bay 
+254,Pacifica 
+255,College Place
+256,Collinsville
+257,Columbia
+258,Columbia 
+259,Colusa
+260,Collinsville 
+261,Como
+262,Hartford
+263,Conway
+264,Coos Bay
+265,Coralville 
+266,Cornelius
+267,Corpus Christi 
+268,Cortez
+269,Corvallis
+270,cotati 
+271,Ariton
+272,Lawrence
+273,Barron
+274,Akron
+275,Peninsula
+276,Coventry
+277,Covington 
+278,Fort Worth 
+279,Cozad 
+280,Wellington
+281,Crawfordsville
+282,New Orleans
+283,Fremont
+284,Wynne
+285,Takoma Park
+286,Crystal Lake
+287,Culver City
+288,Culver
+289,Burkesville
+290,Cumberland
+291,Cuyahoga Falls 
+292,Fordyce
+293,Danbury
+294,Dardanelle
+295,Darlington 
+296,Davenport
+297,David City 
+298,Dawson 
+299,South Jordan
+300,DeSoto
+301,Dearborn 
+302,Decatur
+303,Decorah
+304,DeForest
+305,DeKalb
+306,Monterey
+307,Wichita
+308,Delcambre 
+309,Delmar
+310,Delray Beach
+311,Seattle
+312,Denton
+313,Dexter
+314,Dillsboro
+315,Dillsburg
+316,Dimondale
+317,Eastman
+318,Dodgeville
+319,Dove Creek
+320,donnelly
+321,Dorchester
+322,Henrico
+323,Dousman
+324,New York
+325,Queens
+326,Larchmont
+327,Mamaroneck
+328,Brooklyn
+329,Manhattan
+330,New Rochelle
+331,Ossining
+332,Park Slope
+333,Rye
+334,Downingtown
+335,Alachua
+336,Allen Park
+337,Beloit
+338,Berkeley
+339,Denison
+340,Elgin 
+341,Evanston
+342,"Evansville,IN"
+343,Murray
+344,Lancaster
+345,Murray 
+346,Fort Pierce 
+347,Fond du Lac
+348,Green Bay
+349,Lawrenceburg
+350,Lima
+351,Madison 
+352,Marquette
+353,Novato 
+354,Phoenix
+355,ROGERS
+356,Santa Cruz
+357,Yakima
+358,Dresden 
+359,Dublin
+360,Dubuque
+361,Duluth
+362,Durango
+363,Durham
+364,Duvall
+365,Fallon 
+366,eagle
+367,Atascocita
+368,Atlanta
+369,East Boston
+370,East Greenbush
+371,Los Angeles
+372,Nashville
+373,East Orange
+374,East Palo Alto
+375,East Point 
+376,Elmira
+377,Vancouver
+378,Easthampton
+379,Easton 
+380,Knoxville
+381,Smithfield
+382,Edenton
+383,Edmonds
+384,Egg Harbor
+385,El cajon
+386,El Dorado Hills
+387,El Monte
+388,Eldora
+389,Elgin
+390,Elkhart
+391,Ellington
+392,Ellington 
+393,Sandy Hook
+394,West Newton
+395,Buffalo
+396,Emmaus
+397,Empire
+398,Joplin
+399,Van Nuys
+400,Engadine
+401,Candler
+402,Ennis 
+403,Enumclaw
+404,Espanola
+405,Estacada
+406,Etna
+407,Eureka Springs
+408,Evart
+409,Ewa Beach
+410,Exeter
+411,Fair Haven
+412,Fairfax 
+413,Fairfax
+414,Fairland
+415,Spokane 
+416,Lincoln
+417,Sioux Falls 
+418,Indianapolis
+419,Caldwell
+420,Albany 
+421,Las Cruces
+422,Farmers Branch
+423,Soldotna
+424,Naperville
+425,Springfield
+426,Greenfield
+427,Scottsdale
+428,Gravette
+429,Ogden
+430,Katy
+431,Greensburg
+432,Missorui City
+433,Carlisle
+434,Steubenville
+435,Honokaa
+436,Washington Court House
+437,Connersville
+438,Fearrington Village
+439,Felton
+440,Ferguson
+441,Little Rock
+442,Fernley
+443,San Francisco
+444, Cobleskill
+445,Cincinnati
+446,Sycamore
+447,Lafayette
+448,Fish Creek
+449,Narragansett
+450,Flemingsburg
+451,Prestonsburg
+452,floyds knobs
+453,Milwaukee
+454,Casper
+455,Forest
+456,Forest Grove
+457,Charlottesville
+458,Fort Smith 
+459,Fort Sumner
+460,Fox Lake
+461,Frankenmuth
+462,Frankfort
+463,Franklin
+464,Evansville
+465,Frankton
+466,New Braunfels
+467,Antioch 
+468,"Phoenixville, Pottstown, Coatesville, Parkesburg, West Chester, Kennett Square and Oxford"
+469,Washington
+470,Ft. Thomas
+471,Fort Wayne
+472,FORT WAYNE
+473,Fulshear 
+474,Rochester
+475,New York 
+476,Grand Rapids
+477,Fuquay-Varina
+478,Galena
+479,Gallatin
+480,Riverside
+481,Garden City
+482,Gardner 
+483,Gas City
+484,Texarkana 
+485,Georgetown
+486,Houston 
+487,Gilbert
+488,Gilmanton
+489,Gladstone
+490,Glen Arbor
+491,GLENCOE
+492,Glens Falls
+493,Warwick
+494,Dallas
+495,Goodhue 
+496,Gooding
+497,Goshen
+498,Stuttgart 
+499,Roanoke
+500,Turners Falls
+501,Brownsville
+502,Watertown
+503,Greeley
+504,Walker
+505,Greenbelt
+506,Ruckersville
+507,Gretna
+508,Grinnell
+509,Lihue
+510,baton rouge
+511,Hephzibah
+512,Guttenberg
+513,Aiea
+514,Halifax
+515,Jersey City
+516,Hamilton
+517,Fayetteville 
+518,Hampden
+519,Norfolk
+520,Hana
+521,Hanalei
+522,Findlay
+523,Hanover
+524,Akron 
+525,Harker Heights
+526,Harlingen
+527,Harrison
+528,Cynthiana
+529,Munfordville
+530,Bronx
+531,Kent
+532,New Palestine
+533,New Albany
+534,Heathsville
+535,Heber City
+536,West Hollywood
+537,Hendersonville
+538,Henderson
+539,Hendricks
+540,Parkton
+541,McCook
+542,London 
+543,Rancho Cucamonga
+544,Springerville
+545,Hernando
+546,Herndon 
+547,Herriman
+548,Clarksville
+549,Victorville
+550,High Point 
+551,High Springs
+552,Highlands Ranch 
+553,Manson 
+554,Hillsboro
+555,Hillsboro 
+556,Hinesville
+557,Hingham
+558,Hinsdale
+559,Hot Springs
+560,Lapeer 
+561,
+562,Lewes
+563,Marion
+564,Newburgh
+565,Holden
+566,Hollidaysburg
+567,Holly
+568,Holly Springs
+569,Lexington Park 
+570,Homer
+571,Homewood
+572,Hood River
+573,Welches 
+574,Warren
+575,Providence 
+576,Hopkins
+577,HOPKINSVILLE
+578,Hopkinton
+579,Spartanburg
+580,Hudson
+581,Richmond
+582,Carbondale
+583,Flemington
+584,Huntingdon
+585,Huntley
+586,Hutto
+587,Clarksville City 
+588,Hyattsville
+589,Ida Grove
+590,Idaho Falls
+591,Imlay City
+592,Independence
+593,Independence 
+594,INDIAN LAKE
+595,Indiana
+596,Ionia
+597,Iowa Falls
+598,"Brooklyn, NY"
+599,Issaquah
+600,Ithaca
+601,Ivanhoe
+602,Douglas
+603,Jackson 
+604,Black River Falls 
+605,Mckee
+606,Tyner
+607,Sylva 
+608,Sylva
+609,Janesville 
+610,Jasper 
+611,Jeffersontown
+612,Paintsville
+613,Joshua Tree
+614,Juneau
+615,Kailua
+616,Kalamazoo
+617,Kamuela
+618,Kaneohe
+619,Kapolei
+620,Milwaukee 
+621,Keller 
+622,Kenosha
+623,Kensington
+624,Kentwood
+625,Camden
+626,King 
+627, King George
+628,Kingston
+629,Alexandrida 
+630,Kingwood
+631,Kirksville
+632,Kirtland 
+633,Kittery 
+634,Edina
+635,Barbourville
+636,Estero
+637,Kennett Square
+638,Carolina
+639,Los Angele
+640,La Grange
+641,La Plata
+642,Weston
+643,Lewisville 
+644,Lake Barrington
+645,Lake Oswego
+646,Lake Placid
+647,Brainerd
+648,Baxter 
+649,RICHMOND
+650,henrico
+651,Lakewood
+652,Lamoni
+653,Lanark
+654,Sheridan
+655,Eugene
+656,Eugene 
+657,Lansdale
+658,Fort Collins
+659,"Troy, ID"
+660,Huntsville 
+661,Laurel
+662,Lawrence 
+663,Cobden
+664,Lebanon 
+665,Lebanon
+666,San Antonio
+667,Miami
+668,Leland
+669,Lenexa
+670,Kinston
+671,Lowville
+672,Lewiston
+673,Lexington
+674,LEXINGTON
+675,Salt Lake City
+676,Ligonier
+677,Lilburn
+678,Caliente
+679,Lincoln Park
+680,Linton
+681,Litchfeild
+682,Litchfield
+683,Seymour
+684,Erie
+685,San Diego 
+686,Ashdown
+687,Little River
+688,Livingston
+689,Livonia
+690,Appomattox 
+691,Russellville
+692,Lorton 
+693,Los Ranchos
+694,Louisiana 
+695,Lowell
+696,Wallowa
+697,LUDINGTON
+698,Bluemont
+699,Sterling
+700,Leesburg
+701,Ashburn
+702,Lynchburg
+703,Lynden
+704,Mableton
+705,Winterset
+706,Madras 
+707,DeFuniak Springs
+708,Dyersburg
+709,Placerville
+710,Chanute
+711,Honesdale
+712,Murfreesboro
+713,Wadsworth
+714,Liberytville 
+715,Manchester
+716,Manistee 
+717,Manistique
+718,Mansfield
+719,Manson
+720,Nehalem 
+721,Maple Valley
+722,MARIETTA
+723,Marinette 
+724,Marion 
+725,Orland Park
+726,Myrtle Beach 
+727,Mobile
+728,Oshkosh
+729,Gary
+730,Green Bay 
+731,Whitehall
+732,Broken Bow 
+733,Marksville
+734,Marlette
+735,Benton
+736,Marshfield
+737,Williamston
+738,Maryville 
+739,Maryville
+740,Maysville
+741,Mason
+742,Mattapan
+743,South Bend
+744,Mauldin
+745,mauston
+746,Stearns
+747,McKinleyville
+748,McLean
+749,Brandenburg 
+750,Medford
+751,Media
+752,Kyle 
+753,medina
+754,Pomeroy
+755,Frenchburg
+756,Menlo Park
+757,Menominee
+758,Merchantville
+759,Meridian
+760,METUCHEN
+761,Peru
+762,Oxford
+763,Middlebury
+764,Middletown
+765,Midland
+766,University City
+767,Miles City
+768,Milford
+769,Mililani  
+770,Rockville
+771,Minneapolis
+772,Millen 
+773,Milton
+774,Mineola
+775,Muncie 
+776,Minturn
+777,Mission
+778,Missoula 
+779,Topeka
+780,Monroe
+781,Oakland
+782,MONTEVALLO
+783,Mt. Sterling
+784,Monticello
+785,Montour Falls
+786,Montrose 
+787,Shawnee
+788,McConnelsville
+789,Martinsville 
+790,Mooresville 
+791,Martinsville
+792,Morganton
+793,Atlanta 
+794,Morristown
+795,Morro Bay
+796,Moscow
+797,City
+798,Mount Carroll 
+799,Bristol
+800,Mount Pleasant
+801,Mt.Washington
+802,Macon
+803,Anchorage
+804,Muncie
+805,Munising
+806,Murrysville
+807,Palmer
+808,Myersville
+809,Napa
+810,Narrowsburg
+811,Rocky Mount
+812,Natick
+813,Nederland 
+814,Needham
+815,Downtown Neosho
+816,Netcong
+817,New Baltimore
+818,New Bedford 
+819,New Bedford
+820,New Era
+821,New Glarus
+822,Grand Island
+823,New Harmony
+824,Mechanicsville
+825,Newcastle
+826,Newmarket 
+827,Newport Beach 
+828,Nicholasville 
+829,Stanton 
+830,North Branch
+831,North Canton
+832, North Creek
+833, Mansfield 
+834,Mason City
+835,North Myrtle Beach
+836,Minot
+837,Chambersburg
+838,Charlotte Hall
+839,Northampton 
+840,Northbrook
+841,Colville
+842,Northport
+843,northridge
+844,Cincinnati 
+845,Northville
+846,Norwich
+847,Vienna
+848,Nutley
+849,Oak Creek 
+850,RICHFIELD
+851,Oakton
+852,Brighton
+853,Capitol Heights
+854,Decatur 
+855,Ocean City
+856,Ocean Pines 
+857,Bellaire
+858,St. Clairsville 
+859,Springfield 
+860,Beaufort
+861,Pickerington
+862,Olympia
+863,Omaha
+864,St Louis
+865,Oneida
+866,Jacksonville
+867,Orange 
+868,Orange Park
+869,Oregon City
+870,Merced
+871,Orinda 
+872,Ormond Beach
+873,Orofino
+874,Oswego
+875,Overbrook
+876,Ovid
+877,Spencer
+878,Oxnard
+879,Pacific City
+880,Paducah
+881,Pahrump 
+882,Watsonville
+883,Palisades
+884,Humacao
+885,Palos Heights 
+886,Rolling Hills Estates 
+887,Paola 
+888,"Paragould, AR"
+889,Parkville
+890,Oklahoma City
+891,Spring Run
+892,Pawling
+893,Pawtucket
+894,Cranston 
+895,Payette 
+896,Payson
+897,Port Clinton 
+898,Sonora
+899,Angleton 
+900,Peacham
+901,Spicewood
+902,Falmouth
+903,Pendleton 
+904,Pennington
+905,Perryville
+906,Perry
+907,Petaluma 
+908,Petersham
+909,Pfafftown
+910,Pflugerville
+911,Phelan
+912,Village of Philmont
+913,Louisville
+914,Colfax
+915,North Potomac
+916,Pikeville
+917,Pine City
+918,Pinecrest
+919,Pittsburg
+920,McAlester 
+921,Ann Arbor
+922,Hale
+923,Plainview 
+924,Plainwell 
+925,Plainwell
+926,Collbran
+927,Platteville
+928,Plattsmouth 
+929,Playa Vista
+930,St. Marys
+931,Pleasantville
+932,Poestenkill
+933,Waianae
+934,Pontiac
+935,Port Chester
+936,Port Sanilac
+937,PORT TOWNSEND
+938,Portland 
+939,Portsmouth
+940,Sun Prairie
+941,Galloway
+942,Prescott 
+943,Philadelphia 
+944,Price
+945,Prince George
+946,Prospect 
+947,San Felipe Pueblo 
+948,Pullman
+949,Purcellville
+950,Hurricane
+951,Puyallup
+952,Rock Island
+953,Quapaw
+954,Quincy
+955,QUINCY
+956,Albuquerque
+957,Wedowee 
+958,Pocahontas 
+959,Beverly
+960,Red Lodge
+961,Red Oak
+962,Baton Rouge
+963,Homestead
+964,Redlands
+965,Reedsburg
+966,Reidsville
+967,Reisterstown
+968,Rensselaer
+969,Reston 
+970,Rexburg
+971,Ridgeway
+972,Orangeburg
+973,Denmark
+974,Rindge
+975,Petersburg 
+976,Hardin
+977,Riverdale Park
+978,Wilmington
+979,indianapolis
+980,Kenner
+981,Rock Valley
+982,Rockford
+983,Rockmart
+984,Choteau
+985,Rogers 
+986,Rogersville
+987,Rohnert Park 
+988,Rolling Meadows
+989,Ronan
+990,Roosevelt
+991,Charlotte 
+992,Tyler
+993,Roslindale
+994,Round Rock
+995,LOMPOC
+996,Waipahu
+997,Ruther Glen
+998,Running Springs
+999,Ladysmith
+1000,Guerneville 
+1001,Russiaville
+1002,Ruston
+1003,Afton
+1004,Saint Paris
+1005,Salamanca
+1006,Salem
+1007,Salinas
+1008,Saline
+1009,Salisbury
+1010,Sanford
+1011,Santa Clara
+1012,Santa Rosa 
+1013,Santa Rosa
+1014,Pace
+1015,Traverse City
+1016,Pine Bluff 
+1017,Saranac Lake
+1018,Finley
+1019,Saugerties
+1020,Scituate
+1021,North Scituate
+1022,Scotch Plains
+1023,Scotland
+1024,Scottsville
+1025,Rollinsford
+1026,Sealy 
+1027,Marshall
+1028,Seaside
+1029,Wanchese
+1030,"Sedalia, MO"
+1031,Winston-Salem 
+1032,Seneca Falls
+1033,De Queen
+1034,Seward
+1035,Shallotte
+1036,Shawano
+1037,Harlan
+1038,SHELBYVILLE
+1039,Shepherdsville 
+1040,Dayton 
+1041,Shoreline
+1042,Shorewood
+1043,Shreveport
+1044,Siloam Springs 
+1045,Silver City
+1046,Kellogg
+1047,Silverdale 
+1048,Simi Valley
+1049,Sioux City
+1050,Sitka
+1051,Deming
+1052,Slippery Rock
+1053,San Luis Obispo
+1054,Carthage
+1055,Santa paula
+1056,Costa Mesa
+1057,sodus
+1058,Bowling Green
+1059,Solana Beach
+1060,Somerset
+1061,Somerville
+1062,Berkeley 
+1063,Naples
+1064,Sewanee 
+1065,South Hill
+1066,Wakefield
+1067,South Lake Tahoe 
+1068,South Lyon 
+1069,South Milwaukee 
+1070,SOUTH ORANGE
+1071,St. Joseph 
+1072,South Windsor
+1073,Olean
+1074,sturtevant
+1075,Littleton 
+1076,Hillsville
+1077,Detroit
+1078,Walsenburg
+1079,Sparks
+1080,Speedway
+1081,Spotsylvania
+1082,Fredericksburg
+1083,Springdale 
+1084,Batesville
+1085,St. John
+1086,St. Louis
+1087,St. Maries
+1088,St. Michaels
+1089,Lakeville
+1090,St Petersburg
+1091,Tucson
+1092,Stafford Springs
+1093,Albemarle 
+1094,Stayton 
+1095,Shippensburg
+1096,Steelville
+1097,Murfreesboro 
+1098,Stow
+1099,Stowe
+1100,Suffolk
+1101,Sumter
+1102,Timnath
+1103,sunland park
+1104,Sunnyvale
+1105,Superior
+1106,Surfside Beach
+1107,Cape Coral 
+1108,Cedarville
+1109,Austin
+1110,Suttons Bay
+1111,Suwanee
+1112,Swarthmore
+1113,Tampa
+1114,Tahoe City
+1115,RENO
+1116,Taos 
+1117,Taylorsville
+1118,Jaffrey 
+1119,Telluride
+1120,Temple Terrace
+1121,Tenino
+1122,Hudsonville
+1123,Terre Haute
+1124,Cedar Park
+1125,"Austin, TX"
+1126,Cullowhee 
+1127,Old Orchard Beach 
+1128,Berlin 
+1129,LANCASTER
+1130,Greensboro
+1131,cornwall n.y.
+1132,Creede
+1133,Louisville/Jefferson County metro government (balance)
+1134,Fairfield
+1135,College Park 
+1136,Lyme
+1137,Allamuchy
+1138,Indian Shores
+1139,Long Valley
+1140,Amherst
+1141,Green Lake
+1142,"Petersburg, AK"
+1143,Birmingham
+1144,Glen Rock
+1145,Orange
+1146,Westminster 
+1147,Gresham 
+1148,Bloomington 
+1149,Boyes Hot Springs 
+1150,St.james
+1151,Little Falls
+1152,Reno 
+1153,Londonderry
+1154,Woodland 
+1155,Woodland
+1156,Thief River Falls 
+1157,San Rafael 
+1158,Tigard 
+1159,Titusville
+1160,"Tiverton, RI"
+1161,"Tontitown, AR"
+1162,Torrington 
+1163,Wauwatosa
+1164,Wadley
+1165,West Townshend
+1166,Travelers Rest
+1167,DuBois
+1168,Cleveland
+1169,Trout Creek
+1170,Troy
+1171,Meridianville
+1172,Lakeport
+1173,Tupelo
+1174,Tuscaloosa
+1175,Twin Bridges 
+1176,Sterling IL
+1177,Two Rivers
+1178,Union 
+1179,Blairsville
+1180,Maynardville
+1181,Union
+1182,Gainesville 
+1183,Upper Arlington
+1184,Greenwood
+1185,Westerville
+1186,Urbana
+1187,Frederick
+1188,Utica
+1189,Naples 
+1190,Vashon
+1191,Vermillion
+1192,Rutland 
+1193,RUTLAND
+1194,Nevada
+1195,Vernon Hills
+1196,Verona
+1197,Vicksburg
+1198,Victoria
+1199,Cleveland 
+1200,Constantine
+1201,Lemont
+1202,Skokie
+1203,Vincennes
+1204,O'Fallon
+1205,Voluntown
+1206,Voorheesville
+1207,Wabasha 
+1208,Waco
+1209,Wagoner 
+1210,Wahiawa
+1211,Wahoo
+1212,Pearl City
+1213,Waiapahu
+1214,Waimanalo
+1215, Annandale 
+1216,Walnut Creek
+1217,Ottumwa
+1218,Gig Harbor 
+1219,Waterloo
+1220,Watford City
+1221,Waukon
+1222,Waycross
+1223,Wayland
+1224,Torrey 
+1225,Honesdale 
+1226,Detroit 
+1227,Waynesboro
+1228,Waynesburg
+1229,East Providence
+1230,Webb City
+1231,Webster Springs
+1232,Webster
+1233,Weiser 
+1234,Missouri Valley
+1235,Wellfleet
+1236,Moreauville
+1237,West Haven
+1238,West Lafayette
+1239,West Orange
+1240,West Plains
+1241,West Point 
+1242,Village of Highland Falls
+1243,West Warwick
+1244,Peoria 
+1245,Westcliffe
+1246,Westerly
+1247,Rainelle 
+1248,Westfield 
+1249,Westland
+1250,Westminster
+1251,Lansing
+1252,Weymouth
+1253,White House
+1254,Pinetop-Lakeside 
+1255,Memphis 
+1256,Corbin 
+1257,Williamsburg 
+1258,Lubbock
+1259,North Wilkesboro
+1260,Wilkinsburg
+1261,Williamsburg
+1262,Williamson
+1263,Winchester 
+1264,Huntsville
+1265,CORNV
+1266,Winnsboro
+1267,Oak Ridge
+1268,"Green Bay, WI"
+1269,Wisconsin Rapids
+1270,Wise 
+1271,Asheville
+1272,Campton 
+1273,Wolfeboro
+1274,Wolfforth
+1275,Midway 
+1276,VERSAILLES
+1277,Woodstock
+1278,Woodward
+1279,Woonsocket 
+1280,Wrightstown (use Newtown for GPS)
+1281,Wytheville 
+1282,Yardley borough
+1283,Penn Yan
+1284,Hollywood
+1285,Yorktown
+1286,Katy 
+1287,Humble 
+1288,Cypress
+1289,Ypsilanti
+1290,Yreka 
+1291,Yucaipa
+1292,Zebulon
+1293,Zelienople

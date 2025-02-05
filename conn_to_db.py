@@ -14,75 +14,30 @@ connection = psycopg2.connect(
     database=DB_NAME
 )
 
-# try to connect to server and create DB_NAME
-
 connection.set_isolation_level(ISOLATION_LEVEL_AUTOCOMMIT)
 
-def create_db():
-    print()
-    print("Create DB")
-    try:
-        with connection.cursor() as conn:
-            sql_create_db = f'create database {DB_NAME}'
-            conn.execute(sql_create_db)
-            print("DB created!")
-    except (Exception, Error) as error:
-        print("Ошибка при создании базы данных", error)
-    finally:
-        if connection:
-            conn.close()
-            connection.close()
-            print("Соединение с PostgreSQL закрыто")
-
-
 #Выполнение запроса в БД
-def make_request(request):
-    with connection.cursor() as conn:
-        conn.execute(request)
-        return conn
+def request_db(stmnt):
+    cursor = connection.cursor()
+    cursor.execute(stmnt)
+    record = cursor.fetchall()
+    cursor.close()
+    connection.close
+    return record
 
 
-#Start generating tables
-def generate_tables():
-    print()
-    print("Sart creating tables")
-    make_request("saql_to_generate_tables.sql")
-    print()
-
-#Start parcing
-def parcing_export_file():
-    print()
-    print("Start parcing...")
-    run_parcer()
-    print()
-    print("Done")
-
-
-
-
-record = make_request(
-    f"""select market_id, market_name, country_name, city_name
-        from markets
-        join zips on markets.zip_id=zips.zip_id
-        join countries on zips.zip_id=countries.zip_id
-        join cities on zips.zip_id=cities.zip_id
-        where "country_id"=2;
+def get_markets_ord_by_state():
+    stmnt = f"""select m.market_id, market_name, state_name
+        from markets m
+        join market_states ms on ms.market_id = m.market_id
+        join states s on s.state_id = ms.state_id
+        order by state_name;
         """
-    ).fetchall()
-print()
-print()
-for rec in record:
-    print(rec)
-print()
-print(record)
-print()
-print()
+    res = request_db(stmnt)
+    #print(f'record is {type(res)}')
+    print(*res, sep='\n')
 
 
-
-if connection:
-    connection.close()
-    print("Connection with PostgreSQL is closed")
-
+get_markets_ord_by_state()
 
 #changes to DB needs to be commited "conn.commit()" to see it right now

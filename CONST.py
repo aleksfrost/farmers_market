@@ -4,5 +4,5 @@
 USER = 'farmer'
 PASS = 'farmer_pig'
 HOST = '127.0.0.1'
-DB_NAME = 'farmers_markets_test'
+DB_NAME = 'farmers_markets'
 PORT = '5432'

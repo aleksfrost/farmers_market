@@ -36,6 +36,11 @@ def run_parcer():
         market_locations = []
         upd_dates = []
         market_updates = []
+        market_streets = []
+        market_cities = []
+        market_countries = []
+        market_states = []
+        market_zips = []
 
         #start reading the data
         for row in csv_reader:
@@ -92,12 +97,43 @@ def run_parcer():
                 streets.append(market_street)
                 street_id = streets.index(market_street)
 
+            market_streets.append([street_id, market_id])
+
+            #fill cities
+            if market_city in cities:
+                city_id = cities.index(market_city)
+            else:
+                cities.append(market_city)
+                city_id = cities.index(market_city)
+
+            market_cities.append([city_id, market_id])
+
+            #fill countries
+            if market_country in countries:
+                country_id = countries.index(market_country)
+            else:
+                countries.append(market_country)
+                country_id = countries.index(market_country)
+
+            market_countries.append([country_id, market_id])
+
+            #fill states
+            if market_state in states:
+                state_id = states.index(market_state)
+            else:
+                states.append(market_state)
+                state_id = states.index(market_state)
+
+            market_states.append([state_id, market_id])
+
             #fill zips
             if market_zip in zips:
                 zip_id = zips.index(market_zip)
             else:
                 zips.append(market_zip)
                 zip_id = zips.index(market_zip)
+
+            market_zips.append([zip_id, market_id])
 
             #fill coords
             if coord in coords:
@@ -108,23 +144,7 @@ def run_parcer():
 
 
             #fill markets list
-            markets.append([market_id, market_name, street_id, zip_id, coord_id])
-
-            #fill cities, states, countries
-            #fill relation city - zip
-            city_zip = [zip_id, market_city]
-            if city_zip not in cities:
-                cities.append(city_zip)
-
-            #fill relation state - zip
-            state_zip = [zip_id, market_state]
-            if city_zip not in states:
-                states.append(state_zip)
-
-            #fill relation country - zip
-            countrie_zip = [zip_id, market_country]
-            if countrie_zip not in countries:
-                countries.append(countrie_zip)
+            markets.append([market_id, market_name, coord_id])
 
             #fill date adn time when market is open
             for data, dtime in (zip((s1_date, s2_date, s3_date, s4_date), (s1_time, s2_time, s3_time, s4_time))):
@@ -210,8 +230,34 @@ def run_parcer():
         with open(r'tables_from_export\streets.csv', 'w', encoding='utf-8', newline='') as out_file:
             csv.writer(out_file).writerows(list(enumerate(streets)))
 
+        with open(r'tables_from_export\market_streets.csv', 'w', encoding='utf-8', newline='') as out_file:
+            csv.writer(out_file).writerows(market_streets)
+
+        with open(r'tables_from_export\cities.csv', 'w', encoding='utf-8', newline='') as out_file:
+            csv.writer(out_file).writerows(list(enumerate(cities)))
+
+        with open(r'tables_from_export\market_cities.csv', 'w', encoding='utf-8', newline='') as out_file:
+            csv.writer(out_file).writerows(market_cities)
+
+        with open(r'tables_from_export\countries.csv', 'w', encoding='utf-8', newline='') as out_file:
+            csv.writer(out_file).writerows(list(enumerate(countries)))
+
+        with open(r'tables_from_export\market_countries.csv', 'w', encoding='utf-8', newline='') as out_file:
+            csv.writer(out_file).writerows(market_countries)
+
+        with open(r'tables_from_export\states.csv', 'w', encoding='utf-8', newline='') as out_file:
+            csv.writer(out_file).writerows(list(enumerate(states)))
+
+        with open(r'tables_from_export\market_states.csv', 'w', encoding='utf-8', newline='') as out_file:
+            csv.writer(out_file).writerows(market_states)
+
         with open(r'tables_from_export\zips.csv', 'w', encoding='utf-8', newline='') as out_file:
             csv.writer(out_file).writerows(list(enumerate(zips)))
+
+        with open(r'tables_from_export\market_zips.csv', 'w', encoding='utf-8', newline='') as out_file:
+            csv.writer(out_file).writerows(market_zips)
+
+
 
         coordinates = []
         for i in range(len(coords)):
@@ -220,31 +266,6 @@ def run_parcer():
             coordinates.append(temp)
         with open(r'tables_from_export\coords.csv', 'w', encoding='utf-8', newline='') as out_file:
             csv.writer(out_file).writerows(coordinates)
-
-        cities_with_ids = []
-        for i in range(len(cities)):
-            temp = cities[i]
-            temp.insert(0, i)
-            cities_with_ids.append(temp)
-        with open(r'tables_from_export\cities.csv', 'w', encoding='utf-8', newline='') as out_file:
-            csv.writer(out_file).writerows(cities_with_ids)
-
-        countries_with_ids = []
-        for i in range(len(countries)):
-            temp = countries[i]
-            temp.insert(0, i)
-            countries_with_ids.append(temp)
-        with open(r'tables_from_export\countries.csv', 'w', encoding='utf-8', newline='') as out_file:
-            csv.writer(out_file).writerows(countries_with_ids)
-
-        states_with_ids = []
-        for i in range(len(states)):
-            temp = states[i]
-            temp.insert(0, i)
-            states_with_ids.append(temp)
-        with open(r'tables_from_export\states.csv', 'w', encoding='utf-8', newline='') as out_file:
-            csv.writer(out_file).writerows(states_with_ids)
-
 
         with open(r'tables_from_export\fmarkets.csv', 'w', encoding='utf-8', newline='') as out_file:
             csv.writer(out_file).writerows(markets)
