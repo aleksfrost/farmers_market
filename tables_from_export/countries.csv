@@ -1,0 +1,1523 @@
+0,0,Caledonia
+1,1,Scotts Bluff
+2,2,Monmouth
+3,3,San Bernardino
+4,4,Montgomery
+5,5,Grundy
+6,6,Missaukee
+7,7,Cook
+8,8,Cook
+9,9,Leon
+10,10,Grays Harbor
+11,11,Washington
+12,12,St. Tammany
+13,13,Adams
+14,14,Adams
+15,15,Cumberland
+16,16,Hawaii
+17,17,Ocean
+18,18,Shelby
+19,19,Honolulu
+20,20,Hernando
+21,21,Alachua
+22,22,Bexar
+23,23,Alamosa
+24,24,Linn
+25,25,Delaware
+26,26,Gentry
+27,27,Jefferson
+28,28,Douglas
+29,29,Rapides
+30,30,Kewaunee
+31,31,Allen
+32,32,Washington
+33,33,Modoc
+34,34,Montgomery
+35,35,Story
+36,36,Dawson
+37,37,Davidson
+38,38,Deer Lodge
+39,39,Skagit
+40,40,Anderson
+41,41,Anderson
+42,42,Cook
+43,43,Essex
+44,44,Fairfax
+45,45,Wright
+46,46,Langlade
+47,47,Lake
+48,48,Outagamie
+49,49,Newport
+50,50,Bennington
+51,51,Providence
+52,52,Jefferson
+53,53,Volusia
+54,54,Richmond
+55,55,Middlesex
+56,56,Clatsop
+57,57,Craighead
+58,58,Atchison
+59,59,Athens
+60,60,Clarke
+61,61,Clarke
+62,62,Kootenai
+63,63,Bristol
+64,64,Los Angeles
+65,65,King
+66,66,Cayuga
+67,67,Lawrence
+68,68,Travis
+69,44,Hendricks
+70,69,Hartford
+71,70,El Paso
+72,71,Putnam
+73,72,St. Croix
+74,73,King
+75,74,Bamberg
+76,75,Penobscot
+77,76,El Dorado
+78,77,Ocean
+79,78,Barrow
+80,79,Eagle
+81,80,Rock
+82,81,Bastrop
+83,82,Kane
+84,83,Ripley
+85,84,Calhoun
+86,85,Harris
+87,86,Gage
+88,87,Lee
+89,88,Jefferson
+90,44,Furnas
+91,89,Ohio
+92,90,Polk
+93,91,Hillsborough
+94,92,Somerset
+95,93,Harford
+96,94,Republic
+97,95,Wayne
+98,96,Whatcom
+99,97,Allegany
+100,98,Cass
+101,99,Beltrami
+102,100,Solano
+103,101,Lancaster
+104,102,Benton
+105,103,Morgan
+106,104,Lucas
+107,105,York
+108,106,Jefferson
+109,107,Jefferson
+110,108,Madison
+111,109,Sussex
+112,110,Montgomery
+113,111,Lehigh
+114,112,Los Angeles
+115,113,Franklin
+116,114,San Bernardino
+117,115,Sherburne
+118,116,Middlesex
+119,117,Berks
+120,118,Burleigh
+121,119,Warren
+122,120,Allegheny
+123,121,Monroe
+124,122,Monroe
+125,123,Butler
+126,124,Fayette
+127,125,Allen
+128,126,Wells
+129,127,Baltimore City
+130,128,Ada
+131,129,Boone
+132,130,Boone
+133,131,Cooper
+134,132,Botetourt
+135,133,Bottineau
+136,134,Jefferson
+137,135,Prince George's
+138,136,Boyd
+139,137,Boyd
+140,138,Charlevoix
+141,139,Harris
+142,140,Norfolk
+143,141,Windham
+144,142,Breathitt
+145,143,Kitsap
+146,144,Somerset
+147,145,Box Elder
+148,146,Hampden
+149,147,Providence
+150,148,Rockingham
+151,149,Plymouth
+152,150,Franklin
+153,151,Curry
+154,152,Norfolk
+155,153,Jackson
+156,154,Hernando
+157,155,Franklin
+158,156,Broome
+159,157,Providence
+160,158,Hendricks
+161,159,Rusk
+162,160,Cumberland
+163,161,Montgomery
+164,162,Hampton
+165,163,Hancock
+166,164,Los Angeles
+167,165,Fairfax
+168,166,Gregory
+169,167,Chittenden
+170,168,Providence
+171,169,Butler
+172,170,Silver Bow
+173,171,Harris
+174,172,St. Joseph
+175,173,Trigg
+176,174,Lake
+177,175,Calaveras
+178,176,Calaveras
+179,177,Caledonia
+180,178,Racine
+181,179,Santa Clara
+182,180,St. Mary's
+183,181,Ventura
+184,182,San Luis Obispo
+185,183,Santa Clara
+186,184,St. Tammany
+187,185,El Dorado
+188,186,Campbell
+189,187,Campbell
+190,188,Campbell
+191,189,Santa Clara
+192,190,Worcester
+193,191,Licking
+194,192,Orleans
+195,193,Los Angeles
+196,194,Wayne
+197,195,Stark
+198,196,Lee
+199,197,Cape Girardeau
+200,198,Kent
+201,199,District of Columbia
+202,200,Monterey
+203,201,King
+204,202,Anderson
+205,203,Orange
+206,204,Carroll
+207,205,Carson City
+208,206,Carter
+209,207,Carter
+210,208,Plymouth
+211,209,Washington
+212,210,Catawba
+213,211,Roanoke
+214,212,Floyd
+215,213,Washington
+216,214,Carteret
+217,215,Mercer
+218,216,Collin
+219,217,Los Angeles
+220,218,Providence
+221,219,Kitsap
+222,220,Riverside
+223,221,Fresno
+224,222,Fresno
+225,223,Custer
+226,224,Grand Isle
+227,225,Grand Isle
+228,226,Jefferson
+229,227,Franklin
+230,228,Washington
+231,229,Mecklenburg
+232,230,Barnstable
+233,44,Burt
+234,231,Orange
+235,232,Chesterfield
+236,233,Philadelphia
+237,234,Butte
+238,235,Butte
+239,236,Butte
+240,237,Smyth
+241,238,Rowan
+242,239,Chippewa
+243,240,Douglas
+244,241,Nottoway
+245,242,Marion
+246,243,Florence
+247,244,Honolulu
+248,245,San Diego
+249,246,Lee
+250,247,Larimer
+251,248,Berkshire
+252,249,Allegheny
+253,250,Hennepin
+254,251,Cuyahoga
+255,252,Macomb
+256,253,Ramsey
+257,254,New Haven
+258,255,New Haven
+259,256,New Haven
+260,257,Los Angeles
+261,258,Sullivan
+262,259,Erie
+263,260,Asotin
+264,261,Clay
+265,262,Johnson
+266,263,Forsyth
+267,264,District of Columbia
+268,265,Saratoga
+269,266,Oneida
+270,267,Franklin
+271,268,Barbour
+272,269,Baltimore
+273,270,Lackawanna
+274,271,Washington
+275,272,San Mateo
+276,273,San Mateo
+277,274,Walla Walla
+278,275,Hartford
+279,276,El Paso
+280,277,El Paso
+281,278,Maury
+282,279,Boone
+283,280,Tuolumne
+284,281,Platte
+285,282,Cherokee
+286,283,Colusa
+287,284,Cooke
+288,285,Multnomah
+289,286,Panola
+290,287,Hartford
+291,288,Horry
+292,289,Faulkner
+293,290,Coos
+294,291,Johnson
+295,292,Washington
+296,293,Nueces
+297,294,Montezuma
+298,295,Benton
+299,296,Sonoma
+300,297,Douglas
+301,298,Carroll
+302,299,Barron
+303,300,Summit
+304,301,Summit
+305,302,Summit
+306,303,Summit
+307,304,Tolland
+308,305,Kenton
+309,44,Tarrant
+310,306,Dawson
+311,307,Park
+312,308,Montgomery
+313,309,Los Angeles
+314,310,Orleans
+315,311,Orleans
+316,312,Sandusky
+317,313,Cross
+318,314,Montgomery
+319,315,McHenry
+320,316,Los Angeles
+321,317,Marshall
+322,318,Cumberland
+323,319,Marion
+324,320,Summit
+325,321,Dallas
+326,322,Fairfield
+327,44,Yell
+328,323,Lafayette
+329,324,Scott
+330,325,Butler
+331,326,Lac qui Parle
+332,327,Salt Lake
+333,328,Jefferson
+334,329,Wayne
+335,330,DeKalb
+336,331,Winneshiek
+337,332,Dane
+338,333,DeKalb
+339,334,Monterey
+340,335,Sedgwick
+341,336,Iberia
+342,337,Albany
+343,338,Palm Beach
+344,339,King
+345,340,Denton
+346,341,King
+347,342,Washtenaw
+348,343,Philadelphia
+349,344,Dearborn
+350,345,York
+351,346,Eaton
+352,347,Dodge
+353,348,Iowa
+354,349,Dolores
+355,350,Valley
+356,351,Suffolk
+357,352,Henrico
+358,353,Waukesha
+359,354,Rockingham
+360,355,New York
+361,356,Queens
+362,357,Westchester
+363,358,Westchester
+364,359,Kings
+365,360,New York
+366,361,Westchester
+367,362,Westchester
+368,363,Kings
+369,364,Queens
+370,365,Westchester
+371,366,Chester
+372,367,Alachua
+373,368,Wayne
+374,369,Rock
+375,370,Alameda
+376,371,McLean
+377,372,Van Zandt
+378,373,Butte
+379,374,Grayson
+380,375,Kane
+381,376,Cook
+382,377,Vanderburgh
+383,378,Calloway
+384,379,Lancaster
+385,380,Calloway
+386,381,St. Lucie
+387,382,Fond du Lac
+388,383,Brown
+389,384,Dearborn
+390,385,Allen
+391,386,Madison
+392,387,Marquette
+393,388,Jackson
+394,389,Marin
+395,390,Santa Clara
+396,391,Maricopa
+397,392,Benton
+398,44,Santa Cruz
+399,393,Yakima
+400,394,Weakley
+401,395,Baltimore City
+402,396,Alameda
+403,397,Dubuque
+404,398,St. Louis
+405,399,La Plata
+406,400,Durham
+407,44,Rockingham
+408,401,King
+409,402,Churchill
+410,403,Cass
+411,404,Harris
+412,405,Fulton
+413,406,Suffolk
+414,407,Harris
+415,408,Rensselaer
+416,409,Los Angeles
+417,410,Davidson
+418,411,Essex
+419,412,San Mateo
+420,413,Fulton
+421,414,Chemung
+422,415,Clark
+423,416,Erie
+424,417,Hampshire
+425,418,Northampton
+426,419,Knox
+427,420,Providence
+428,421,Los Angeles
+429,422,Chowan
+430,423,Snohomish
+431,424,Door
+432,425,San Diego
+433,426,El Dorado
+434,427,Los Angeles
+435,428,Hardin
+436,429,Bastrop
+437,430,Elkhart
+438,431,Tolland
+439,432,Elliott
+440,433,Middlesex
+441,434,Lehigh
+442,435,Leelanau
+443,436,Jasper
+444,437,Los Angeles
+445,44,Mackinac
+446,438,Buncombe
+447,439,Ellis
+448,440,King
+449,441,Rio Arriba
+450,442,Clackamas
+451,443,Siskiyou
+452,444,Carroll
+453,445,Osceola
+454,446,Honolulu
+455,447,Rutland
+456,448,Marin
+457,449,Fairfax
+458,450,Ottawa
+459,451,Spokane
+460,452,Lancaster
+461,453,Minnehaha
+462,454,Marion
+463,455,Canyon
+464,456,Albany
+465,457,Dona Ana
+466,458,Dallas
+467,459,Kenai Peninsula
+468,460,Fountain
+469,461,DuPage
+470,462,Washington
+471,463,Hancock
+472,464,Maricopa
+473,465,Beaufort
+474,466,Benton
+475,467,Jefferson
+476,468,Greene
+477,469,Weber
+478,470,Harris
+479,471,Green
+480,472,Adair
+481,473,Fort Bend
+482,474,Cumberland
+483,475,Jefferson
+484,476,Hawaii
+485,477,Fayette
+486,478,Fayette
+487,479,Chatham
+488,480,Santa Cruz
+489,481,St. Louis
+490,482,Pulaski
+491,483,Lyon
+492,484,San Francisco
+493,485,Schoharie
+494,486,Hamilton
+495,487,Wyandot
+496,488,Lafayette
+497,489,Sedgwick
+498,490,Door
+499,491,Washington
+500,492,Fleming
+501,493,Floyd
+502,494,Floyd
+503,495,Milwaukee
+504,496,Natrona
+505,497,Bedford
+506,498,Washington
+507,499,Allegheny
+508,500,Albemarle
+509,44,Marion
+510,501,Sebastian
+511,502,De Baca
+512,503,Lake
+513,504,Saginaw
+514,505,Franklin
+515,506,Johnson
+516,507,Simpson
+517,508,Vanderburgh
+518,509,Madison
+519,510,Fulton
+520,436,Newton
+521,511,Scott
+522,512,Comal
+523,513,Contra Costa
+524,44,Chester
+525,514,District of Columbia
+526,85,Galveston
+527,515,Allen
+528,516,Fort Bend
+529,517,Fulton
+530,518,New York
+531,519,Kent
+532,520,Wake
+533,521,Cherokee
+534,522,Sumner
+535,523,Riverside
+536,524,Finney
+537,525,Johnson
+538,526,Marion
+539,527,Cook
+540,528,Garrard
+541,529,Grant
+542,530,Miller
+543,531,Georgetown
+544,532,Houston
+545,533,Houston
+546,534,Houston
+547,535,Houston
+548,536,Houston
+549,537,Houston
+550,538,Houston
+551,539,Maricopa
+552,540,Belknap
+553,541,Clay
+554,542,Leelanau
+555,543,Etowah
+556,544,Warren
+557,545,Cook
+558,546,Kent
+559,547,Dallas
+560,548,Goodhue
+561,549,Gooding
+562,550,Philadelphia
+563,551,Orange
+564,552,Arkansas
+565,553,Itasca
+566,554,Roanoke City
+567,555,Fulton
+568,556,New York
+569,557,Franklin
+570,558,Washington
+571,559,Jefferson
+572,560,Weld
+573,561,Cook
+574,562,Cook
+575,563,Fulton
+576,564,Cass
+577,565,Prince George's
+578,566,Greene
+579,567,Jefferson
+580,568,Poweshiek
+581,569,Kauai
+582,570,East Baton Rouge
+583,571,Richmond
+584,572,Clayton
+585,573,Honolulu
+586,574,Halifax
+587,575,Hudson
+588,576,Butler
+589,577,Cumberland
+590,578,Penobscot
+591,579,Norfolk
+592,580,Franklin
+593,581,Maui
+594,582,Kauai
+595,583,Hancock
+596,584,York
+597,585,Summit
+598,586,Summit
+599,587,Allen
+600,588,Bell
+601,589,Cameron
+602,590,Clare
+603,44,Harrison
+604,591,Hart
+605,592,Minnehaha
+606,44,New York
+607,44,Kings
+608,44,Bronx
+609,44,Honolulu
+610,593,Portage
+611,594,Hancock
+612,595,Franklin
+613,596,Northumberland
+614,597,Wasatch
+615,598,Los Angeles
+616,599,Henderson
+617,44,York
+618,600,Lincoln
+619,44,Baltimore
+620,601,Red Willow
+621,602,Laurel
+622,603,San Bernardino
+623,604,Apache
+624,605,DeSoto
+625,606,Fairfax
+626,607,Salt Lake
+627,608,Montgomery
+628,609,San Bernardino
+629,610,Guilford
+630,611,Alachua
+631,612,Highland
+632,613,Douglas
+633,614,Calhoun
+634,615,Jefferson
+635,616,Washington
+636,617,Multnomah
+637,618,Liberty
+638,619,Plymouth
+639,620,DuPage
+640,621,Garland
+641,44,Hudson
+642,622,Lapeer
+643,623,Tippecanoe
+644,44,
+645,624,Sussex
+646,625,McDowell
+647,626,Warrick
+648,627,Johnson
+649,628,Blair
+650,629,Oakland
+651,630,Wake
+652,631,St. Mary's
+653,632,Kenai Peninsula
+654,633,Cook
+655,44,Hood River
+656,634,Clackamas
+657,635,Bristol
+658,636,Hennepin
+659,637,Christian
+660,638,Middlesex
+661,639,Fall River
+662,640,Spartanburg
+663,641,Columbia
+664,642,Chesterfield
+665,643,Chesterfield
+666,644,Jackson
+667,645,Hunterdon
+668,646,Huntingdon
+669,647,McHenry
+670,648,Williamson
+671,649,Gregg
+672,650,Prince George's
+673,651,Hamilton
+674,652,Ida
+675,653,Bonneville
+676,654,Lapeer
+677,655,Crittenden
+678,656,Buchanan
+679,657,Jackson
+680,658,Hamilton
+681,659,Indiana
+682,660,Ionia
+683,661,Hardin
+684,662,Kings
+685,663,King
+686,664,Gratiot
+687,665,Lincoln
+688,666,Converse
+689,667,Cape Girardeau
+690,668,Jackson
+691,669,Jackson
+692,670,Jackson
+693,671,Jackson
+694,672,Washington
+695,673,Rock
+696,674,Pickens
+697,675,Philadelphia
+698,676,Jefferson
+699,677,Johnson
+700,678,San Bernardino
+701,679,Juneau
+702,680,Honolulu
+703,681,Kalamazoo
+704,682,Honolulu
+705,683,Honolulu
+706,684,Honolulu
+707,44,Milwaukee
+708,685,Tarrant
+709,686,Kenosha
+710,687,Montgomery
+711,688,Kent
+712,689,Kershaw
+713,690,Stokes
+714,691,King George
+715,692,Ulster
+716,693,Fairfax
+717,694,Harris
+718,695,Adair
+719,696,San Juan
+720,697,York
+721,698,Knox
+722,699,Knox
+723,700,Lee
+724,701,Chester
+725,702,Carolina
+726,703,Los Angeles
+727,704,Bronx
+728,705,Bronx
+729,706,Oldham
+730,707,Charles
+731,708,Fairfield
+732,709,Lafayette
+733,710,Lake
+734,711,Clackamas
+735,712,Essex
+736,713,Crow Wing
+737,714,Crow Wing
+738,715,Henrico
+739,716,Cuyahoga
+740,717,Chautauqua
+741,718,Decatur
+742,719,Carroll
+743,720,Fairfield
+744,721,Sheridan
+745,722,Lane
+746,723,Montgomery
+747,724,Larimer
+748,725,Latah
+749,726,Madison
+750,727,Jones
+751,728,Van Buren
+752,729,Allegheny
+753,730,Union
+754,731,Boone
+755,732,New London
+756,733,Bexar
+757,734,Miami-Dade
+758,735,Leelanau
+759,736,Johnson
+760,737,Lenoir
+761,738,Hamilton
+762,739,Lewis
+763,740,Winona
+764,741,Androscoggin
+765,742,Middlesex
+766,743,Middlesex
+767,744,Salt Lake
+768,745,Westmoreland
+769,746,Gwinnett
+770,747,Lincoln
+771,748,Los Angeles
+772,749,Wayne
+773,750,San Diego
+774,751,Greene
+775,752,Litchfield
+776,753,Wright
+777,754,Erie
+778,755,San Diego
+779,756,Little River
+780,757,Horry
+781,758,Park
+782,759,Wayne
+783,760,Appomattox
+784,761,Logan
+785,762,Fairfax
+786,763,Bernalillo
+787,764,Pike
+788,765,Clermont
+789,766,Cook
+790,767,Kent
+791,768,Wallowa
+792,769,Polk
+793,770,Mason
+794,771,Loudoun
+795,772,Loudoun
+796,773,Loudoun
+797,774,Loudoun
+798,775,Lynchburg
+799,776,Whatcom
+800,777,Cobb
+801,778,Madison
+802,779,Lac qui Parle
+803,780,Morris
+804,781,Jefferson
+805,782,King
+806,783,Dane
+807,784,Walton
+808,785,Dyer
+809,786,Washington
+810,787,El Dorado
+811,788,Neosho
+812,789,Wayne
+813,790,Rutherford
+814,791,Medina
+815,792,Lake
+816,793,Hartford
+817,794,Gallatin
+818,795,Manistee
+819,796,Schoolcraft
+820,797,Honolulu
+821,798,Tarrant
+822,799,Chelan
+823,800,Tillamook
+824,801,King
+825,802,Cobb
+826,803,Marinette
+827,804,Linn
+828,805,Marion
+829,806,Cook
+830,807,Horry
+831,808,Mobile
+832,809,Winnebago
+833,810,Mobile
+834,811,Miami-Dade
+835,812,Lake
+836,813,Vanderburgh
+837,814,Brown
+838,815,Franklin
+839,44,Custer
+840,816,Avoyelles
+841,817,Sanilac
+842,818,Marshall
+843,819,Plymouth
+844,820,Martin
+845,821,Madison
+846,822,Blount
+847,823,Mason
+848,824,Ingham
+849,825,Suffolk
+850,826,St. Joseph
+851,827,Greenville
+852,828,Juneau
+853,829,McCreary
+854,830,Fairfax
+855,831,Humboldt
+856,832,Fairfax
+857,833,Meade
+858,834,Middlesex
+859,835,Delaware
+860,836,Shannon
+861,837,Medina
+862,838,Meigs
+863,839,Shelby
+864,840,Menifee
+865,841,San Mateo
+866,842,Menominee
+867,843,Camden
+868,844,Ada
+869,845,Middlesex
+870,846,Miami
+871,847,Lafayette
+872,848,Addison
+873,849,Jefferson
+874,850,Frederick
+875,851,Midland
+876,852,St. Louis
+877,853,New Haven
+878,854,Honolulu
+879,855,Montgomery
+880,856,Montgomery
+881,857,Hennepin
+882,858,Jenkins
+883,859,Sussex
+884,860,Milwaukee
+885,861,Wood
+886,862,Delaware
+887,863,Eagle
+888,864,Johnson
+889,865,Bexar
+890,44,Missoula
+891,866,Los Angeles
+892,867,Shawnee
+893,868,Monroe
+894,869,Green
+895,870,Multnomah
+896,871,Alameda
+897,872,Shelby
+898,873,Montgomery
+899,874,Jasper
+900,875,Schuyler
+901,876,Montrose
+902,877,Johnson
+903,878,Multnomah
+904,879,Morgan
+905,880,Morgan
+906,881,Morgan
+907,882,Burke
+908,883,Fulton
+909,884,Morris
+910,885,San Luis Obispo
+911,886,Latah
+912,887,Marathon
+913,888,Carroll
+914,889,Bristol
+915,890,Charleston
+916,891,District of Columbia
+917,892,Garrett
+918,893,Philadelphia
+919,894,Isabella
+920,895,Bullitt
+921,896,Bibb
+922,897,Anchorage
+923,898,Alger
+924,899,Westmoreland
+925,900,Matanuska-Susitna
+926,901,Frederick
+927,902,Napa
+928,903,Sullivan
+929,904,Nash
+930,905,Middlesex
+931,906,Will
+932,907,Boulder
+933,908,Norfolk
+934,909,Newton
+935,910,Morris
+936,911,Macomb
+937,912,Bristol
+938,913,Bristol
+939,914,Bristol
+940,512,Bexar
+941,915,Oceana
+942,916,Green
+943,44,Hall
+944,917,Posey
+945,918,Knox
+946,919,New Haven
+947,920,Hanover
+948,921,Orleans
+949,922,Orange
+950,923,Weston
+951,924,Rockingham
+952,925,Orange
+953,926,Jessamine
+954,44,Madison
+955,927,Litchfield
+956,24,Benton
+957,928,Alameda
+958,929,Chisago
+959,930,Stark
+960,931,Warren
+961,932,Richland
+962,933,Cerro Gordo
+963,934,Franklin
+964,935,Horry
+965,936,Ward
+966,937,Franklin
+967,938,St. Mary's
+968,939,Northampton
+969,940,Cook
+970,941,Hennepin
+971,942,Stevens
+972,943,Leelanau
+973,944,Los Angeles
+974,945,Hamilton
+975,946,Dane
+976,947,Wayne
+977,948,Chenango
+978,949,Fairfax
+979,950,Essex
+980,951,Milwaukee
+981,952,Summit
+982,953,Fairfax
+983,954,Suffolk
+984,955,Prince George's
+985,956,Marion
+986,957,San Diego
+987,958,Cape May
+988,959,Worcester
+989,960,Belmont
+990,961,Belmont
+991,962,Multnomah
+992,963,Sangamon
+993,964,Los Angeles
+994,965,Alameda
+995,966,Carteret
+996,967,Fairfield
+997,968,Thurston
+998,969,Douglas
+999,970,Douglas
+1000,971,St. Louis City
+1001,972,Outagamie
+1002,973,Onslow
+1003,974,New Haven
+1004,975,Orange
+1005,976,Clay
+1006,977,Clackamas
+1007,978,Merced
+1008,979,Contra Costa
+1009,980,Volusia
+1010,981,Clearwater
+1011,982,Kendall
+1012,983,Osage
+1013,984,Seneca
+1014,985,Owen
+1015,986,Granville
+1016,987,Butler
+1017,988,Ventura
+1018,989,Tillamook
+1019,990,McCracken
+1020,991,Nye
+1021,992,Santa Cruz
+1022,993,Rockland
+1023,994,Humacao
+1024,995,Bexar
+1025,996,Cook
+1026,997,Los Angeles
+1027,998,Miami
+1028,999,Greene
+1029,44,Platte
+1030,1000,Oklahoma
+1031,1001,Franklin
+1032,1002,Dutchess
+1033,1003,Providence
+1034,1004,Providence
+1035,1005,Payette
+1036,1006,Gila
+1037,1007,Ottawa
+1038,1008,Tuolumne
+1039,1009,Brazoria
+1040,1010,Caledonia
+1041,1011,Blanco
+1042,1012,Pendleton
+1043,1013,Madison
+1044,1014,Mercer
+1045,1015,Perry
+1046,1016,Jefferson
+1047,1017,Sonoma
+1048,1018,Worcester
+1049,1019,Forsyth
+1050,1020,Travis
+1051,1021,San Bernardino
+1052,1022,Columbia
+1053,1023,Jefferson
+1054,1024,Guilford
+1055,1025,Montgomery
+1056,1026,Marion
+1057,1027,Pike
+1058,1028,Pine
+1059,1029,Miami-Dade
+1060,1030,Kings
+1061,1031,Crawford
+1062,1032,Pittsburg
+1063,1033,Washtenaw
+1064,1034,Iosco
+1065,44,Pierce
+1066,1035,Allegan
+1067,1036,Mesa
+1068,1037,Grant
+1069,44,Cass
+1070,1038,Los Angeles
+1071,1039,Pleasants
+1072,1040,Westchester
+1073,1041,Marshall
+1074,1042,Rensselaer
+1075,1043,Honolulu
+1076,1044,Livingston
+1077,1045,Westchester
+1078,1046,Sanilac
+1079,1047,Jefferson
+1080,1048,Multnomah
+1081,1049,Multnomah
+1082,1050,Multnomah
+1083,1051,Multnomah
+1084,1052,Multnomah
+1085,1053,Rockingham
+1086,1054,Dane
+1087,1055,Franklin
+1088,1056,Yavapai
+1089,1057,Philadelphia
+1090,1058,Carbon
+1091,1059,Prince George
+1092,1060,Oldham
+1093,1061,Sandoval
+1094,1062,Whitman
+1095,1063,Loudoun
+1096,1064,Putnam
+1097,1065,Pierce
+1098,1066,Rock Island
+1099,1067,Ottawa
+1100,1068,King
+1101,1069,Plumas
+1102,1070,Adams
+1103,1071,Bernalillo
+1104,1072,Randolph
+1105,1073,Randolph
+1106,1074,Clay
+1107,1075,Carbon
+1108,1076,Montgomery
+1109,1077,East Baton Rouge
+1110,1078,East Baton Rouge
+1111,1079,East Baton Rouge
+1112,1080,Miami-Dade
+1113,1081,San Bernardino
+1114,1082,Sauk
+1115,1083,Rockingham
+1116,1084,Baltimore
+1117,1085,Jasper
+1118,1086,Fairfax
+1119,1087,Madison
+1120,1088,Wayne
+1121,1089,Iowa
+1122,1090,Orangeburg
+1123,1091,Bamberg
+1124,1092,Cheshire
+1125,1093,Philadelphia
+1126,1094,Petersburg
+1127,1095,Big Horn
+1128,1096,Prince George's
+1129,1097,New Hanover
+1130,1098,Duval
+1131,1099,Marion
+1132,1100,Cook
+1133,1101,Jefferson
+1134,1102,Hudson
+1135,1103,Sussex
+1136,1104,Huntington
+1137,1105,Sioux
+1138,1106,Winnebago
+1139,1107,Polk
+1140,1108,Multnomah
+1141,1109,Franklin
+1142,1110,Teton
+1143,1111,Hennepin
+1144,1112,Webster
+1145,1113,Jackson
+1146,1114,Jackson
+1147,1115,Sonoma
+1148,1116,Cook
+1149,1117,Lake
+1150,1118,Nassau
+1151,1119,Mecklenburg
+1152,1120,Smith
+1153,1121,Suffolk
+1154,1122,Allegheny
+1155,1123,Williamson
+1156,1124,Santa Barbara
+1157,1125,Honolulu
+1158,1126,Caroline
+1159,1127,San Bernardino
+1160,1128,Rusk
+1161,1129,Pope
+1162,1130,Sonoma
+1163,1131,Howard
+1164,1132,Lincoln
+1165,1133,Nelson
+1166,1134,Franklin
+1167,1135,Champaign
+1168,1136,Cattaraugus
+1169,1137,Roanoke
+1170,1138,Essex
+1171,1139,Rockingham
+1172,1140,Monterey
+1173,1141,Washtenaw
+1174,1142,Essex
+1175,1143,Clark
+1176,1144,Allen
+1177,1145,Honolulu
+1178,1146,Bexar
+1179,1147,San Francisco
+1180,1148,York
+1181,1149,Santa Clara
+1182,1150,Sonoma
+1183,1151,Sonoma
+1184,1152,Santa Rosa
+1185,1153,Grand Traverse
+1186,1154,Jefferson
+1187,1155,Franklin
+1188,1156,Lake
+1189,1157,Ulster
+1190,1158,Plymouth
+1191,1159,Providence
+1192,1160,Union
+1193,1161,Windham
+1194,1162,Scott
+1195,1163,Monroe
+1196,1164,Franklin
+1197,1165,Rockingham
+1198,1166,Strafford
+1199,1167,Austin
+1200,1168,Searcy
+1201,1169,Clatsop
+1202,1170,Dare
+1203,1171,Pettis
+1204,1172,Forsyth
+1205,1173,Seneca
+1206,1174,Sevier
+1207,1175,Seward
+1208,1176,Brunswick
+1209,1177,Shawano
+1210,1178,Shelby
+1211,1179,Shelby
+1212,1180,Bullitt
+1213,1181,Montgomery
+1214,1182,King
+1215,1183,Milwaukee
+1216,1184,Caddo
+1217,1185,Benton
+1218,1186,Grant
+1219,1187,Shoshone
+1220,1188,Ventura
+1221,1189,Woodbury
+1222,1190,Sitka
+1223,1191,Luna
+1224,1192,Butler
+1225,1193,San Luis Obispo
+1226,1194,Smith
+1227,1195,Ventura
+1228,1196,Orange
+1229,1197,Wayne
+1230,1198,Warren
+1231,1199,San Diego
+1232,1200,Somerset
+1233,1201,Middlesex
+1234,1202,Middlesex
+1235,1203,Duval
+1236,1204,Alameda
+1237,1205,Collier
+1238,1206,Franklin
+1239,1207,Kent
+1240,1208,Mecklenburg
+1241,1209,Williamson
+1242,1210,Mecklenburg
+1243,1211,Washington
+1244,1212,El Dorado
+1245,1213,Oakland
+1246,1214,Miami-Dade
+1247,1215,Milwaukee
+1248,1216,Essex
+1249,1217,Lackawanna
+1250,1218,Buchanan
+1251,1219,Hartford
+1252,1220,Cattaraugus
+1253,1221,Racine
+1254,1222,Jefferson
+1255,1223,Carroll
+1256,1224,Wayne
+1257,1225,Huerfano
+1258,1226,Washoe
+1259,1227,Marion
+1260,1228,Spotsylvania
+1261,1229,Spotsylvania
+1262,1230,Washington
+1263,1231,Panola
+1264,1232,Lake
+1265,1233,Multnomah
+1266,1234,Gratiot
+1267,1235,Benewah
+1268,1236,Jefferson
+1269,1237,Talbot
+1270,1238,Dakota
+1271,1239,Pinellas
+1272,1240,Pima
+1273,1241,Tolland
+1274,1242,Stanly
+1275,1243,Marion
+1276,1244,Hampden
+1277,1245,Cumberland
+1278,1246,Crawford
+1279,1247,Summit
+1280,1248,Lamoille
+1281,1249,Suffolk
+1282,1250,Summit
+1283,1251,Sumter
+1284,1252,Larimer
+1285,1253,Dona Ana
+1286,1254,Santa Clara
+1287,1255,Pinal
+1288,1256,Horry
+1289,1257,Lee
+1290,1258,Modoc
+1291,1259,Winnebago
+1292,1260,Travis
+1293,1261,Travis
+1294,1262,Leelanau
+1295,1263,Gwinnett
+1296,1264,Delaware
+1297,1265,Hillsborough
+1298,1266,Nevada
+1299,1267,Washoe
+1300,1268,Taos
+1301,1269,Spencer
+1302,1270,Greenville
+1303,1271,Cheshire
+1304,1272,San Miguel
+1305,1273,Alameda
+1306,1274,Hillsborough
+1307,1275,Thurston
+1308,1276,Ottawa
+1309,1277,Vigo
+1310,1278,Williamson
+1311,1279,Travis
+1312,1280,Kalamazoo
+1313,1281,Jackson
+1314,1282,Sumter
+1315,1283,York
+1316,1284,Los Angeles
+1317,1285,Montgomery
+1318,1286,Guilford
+1319,1287,Orange
+1320,1288,Mineral
+1321,1289,Jefferson
+1322,1290,Butler
+1323,1291,Sierra
+1324,1292,Middlesex
+1325,1293,Prince George's
+1326,1294,New London
+1327,1295,Warren
+1328,1296,Philadelphia
+1329,44,Fulton
+1330,1297,Fulton
+1331,1298,Fulton
+1332,1299,Fulton
+1333,1300,Roanoke City
+1334,1301,Pinellas
+1335,1302,Lewis
+1336,1303,Logan
+1337,1304,Morris
+1338,1305,Amherst
+1339,1306,Green Lake
+1340,1307,Marion
+1341,1308,Wrangell-Petersburg
+1342,1309,Shelby
+1343,1310,York
+1344,1311,Fairfield
+1345,1312,Franklin
+1346,1313,Adams
+1347,1314,Multnomah
+1348,1315,Sonoma
+1349,1316,Sonoma
+1350,1317,Watonwan
+1351,1318,Jo Daviess
+1352,1319,Passaic
+1353,1320,Washoe
+1354,1321,Windham
+1355,1322,New Hanover
+1356,1323,Yolo
+1357,1324,Pennington
+1358,1325,Marin
+1359,44,Washington
+1360,1326,Crawford
+1361,1327,Newport
+1362,1328,Washington
+1363,1329,Goshen
+1364,1330,Milwaukee
+1365,1331,Randolph
+1366,1332,Windham
+1367,1333,Greenville
+1368,1334,Clearfield
+1369,1335,Cuyahoga
+1370,1336,Sanders
+1371,1337,Rensselaer
+1372,1338,Madison
+1373,1339,Lake
+1374,1340,Lee
+1375,1341,Tuscaloosa
+1376,1342,Madison
+1377,1343,Whiteside
+1378,1344,Manitowoc
+1379,1345,Union
+1380,1346,Union
+1381,1347,Union
+1382,1348,Knox
+1383,1349,Middlesex
+1384,1350,Alachua
+1385,1351,Philadelphia
+1386,1352,Franklin
+1387,1353,Pitt
+1388,1354,Greenwood
+1389,1355,Franklin
+1390,1356,Harris
+1391,1357,Benton
+1392,1358,Frederick
+1393,1359,District of Columbia
+1394,1360,Oneida
+1395,1361,Vance
+1396,1362,Collier
+1397,1363,King
+1398,1364,Clay
+1399,1365,Rutland
+1400,1366,Vernon
+1401,1367,Lake
+1402,1368,Augusta
+1403,1369,Kalamazoo
+1404,1370,Victoria
+1405,1371,Cuyahoga
+1406,1372,St. Joseph
+1407,1373,Cook
+1408,1374,Cook
+1409,1375,Knox
+1410,1376,St. Clair
+1411,1377,Fresno
+1412,1378,Miami-Dade
+1413,1379,New London
+1414,1380,Albany
+1415,1381,Wabasha
+1416,1382,McLennan
+1417,1383,Wagoner
+1418,1384,Honolulu
+1419,1385,Saunders
+1420,1386,Honolulu
+1421,1387,Honolulu
+1422,1388,Honolulu
+1423,1389,Fairfax
+1424,1390,King
+1425,1391,Contra Costa
+1426,1392,Wapello
+1427,1393,Washington
+1428,1394,Pierce
+1429,1395,Seneca
+1430,1396,Litchfield
+1431,1397,McKenzie
+1432,1398,Allamakee
+1433,1399,Ware
+1434,1400,Allegan
+1435,1401,Middlesex
+1436,1402,Wayne
+1437,1403,Wayne
+1438,1404,Waynesboro
+1439,1405,Fulton
+1440,1406,Providence
+1441,1407,Jasper
+1442,1408,Webster
+1443,1409,Monroe
+1444,1410,Washington
+1445,1411,Harrison
+1446,1412,Barnstable
+1447,1413,Los Angeles
+1448,1414,Avoyelles
+1449,1415,Roanoke City
+1450,1416,New Haven
+1451,1417,Los Angeles
+1452,1418,Tippecanoe
+1453,1419,Essex
+1454,1420,Wright
+1455,44,Dodge
+1456,1421,Orange
+1457,1422,Cook
+1458,1423,Kent
+1459,1424,Maricopa
+1460,1425,Harris
+1461,1426,Custer
+1462,1427,Washington
+1463,1428,Greenbrier
+1464,1429,Hampden
+1465,1430,Franklin
+1466,1431,Wayne
+1467,1432,Worcester
+1468,1433,Jefferson
+1469,1434,Dane
+1470,1435,Ingham
+1471,1436,Santa Cruz
+1472,1437,Los Angeles
+1473,1438,Norfolk
+1474,1439,Sumner
+1475,1440,Navajo
+1476,1441,Shelby
+1477,1442,Whitley
+1478,1443,Whitley
+1479,1444,Hennepin
+1480,1445,Bexar
+1481,1446,Bexar
+1482,1447,Bexar
+1483,1448,Bexar
+1484,44,Saline
+1485,1449,Lubbock
+1486,1450,Wilkes
+1487,1451,Williamsburg
+1488,1452,Mingo
+1489,1453,Santa Clara
+1490,1454,Middlesex
+1491,1455,Randolph
+1492,1456,Madison
+1493,1457,Yavapai
+1494,1458,Wood
+1495,1459,Anderson
+1496,1460,Wood
+1497,1461,Wise
+1498,1462,Buncombe
+1499,1463,Wolfe
+1500,1464,Carroll
+1501,1465,Lubbock
+1502,1466,Woodford
+1503,1467,Woodford
+1504,1468,Ulster
+1505,1469,Cherokee
+1506,1470,McHenry
+1507,1471,Woodward
+1508,1472,Providence
+1509,1473,Bucks
+1510,1474,Wythe
+1511,1475,Bucks
+1512,1476,Yates
+1513,1477,Broward
+1514,1478,Delaware
+1515,1479,Harris
+1516,1480,Harris
+1517,1481,Harris
+1518,1482,Washtenaw
+1519,1483,Siskiyou
+1520,1484,San Bernardino
+1521,1485,Wake
+1522,1486,Butler
